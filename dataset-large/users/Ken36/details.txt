@@ -1,0 +1,6 @@
+full_name: Ken Dorsey
+email: K.Dorsey@unsw.edu.au
+listens: MeganCat34 Douglas5 AmyLover43 MichaelNerd31 FunDavid01 GeorgeTiger77 BillFrist RogerFederer John291
+home_suburb: Kyeemagh
+password: yankee
+username: Ken36

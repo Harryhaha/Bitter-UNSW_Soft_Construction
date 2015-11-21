@@ -1,0 +1,8 @@
+password: dolphins
+listens: YannosPuppy RitaTiger LanceArmstrong DorkyAmber78 FunMark41 PeriGilpin FunnySandra CalistaPrincess GwynethTiger46 HilaryDuff FunKarl DebraGirl YuriThinker068 FunGeek
+home_longitude: 151.2195
+full_name: Jeri Ryan
+home_latitude: -33.9367
+username: JeriGeek987
+home_suburb: Daceyville
+email: J.Ryan@unsw.edu.au

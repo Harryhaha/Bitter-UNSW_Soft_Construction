@@ -1,0 +1,8 @@
+email: L.Pausini@unsw.edu.au
+home_latitude: -33.9646
+home_suburb: Malabar
+password: little
+listens: Scott99 MarcPuppy588 KateKitten18 MarkMan413 MichaelNerd31 ChristopherLover40 FranzNerd29 NorahTiger JuanNinja Liza150 SportyPierce64 PolonaNerd06
+full_name: Laura Pausini
+home_longitude: 151.2389
+username: SexyLaura13

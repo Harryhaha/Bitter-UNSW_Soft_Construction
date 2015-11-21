@@ -1,0 +1,8 @@
+full_name: Halle Berry
+home_latitude: -34.0173
+listens: BobThinker NatashaGal StanLover34 MichaelNerd31 CameronGeek CreativeVanessa JustinAnimal DorkyAmber78 DanDude Goran71 AmandaGeek
+password: gregory
+home_longitude: 151.0203
+email: H.Berry@unsw.edu.au
+username: HalleStar97
+home_suburb: Bangor

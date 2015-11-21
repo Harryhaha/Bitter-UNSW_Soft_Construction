@@ -1,0 +1,8 @@
+full_name: Jane Pauley
+email: J.Pauley@unsw.edu.au
+home_longitude: 151.1557
+username: AwesomeTiger53
+home_latitude: -33.9723
+home_suburb: Ramsgate Beach
+listens: ChristinaGeek Douglas5 HeatherNerd JenniferPuppy DavidGuy Rod408 GwynethTiger46 CarlaLover Maha208 RobertNinja63 OscarNinja EricAnimal
+password: buster

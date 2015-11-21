@@ -1,0 +1,8 @@
+home_longitude: 151.2386
+home_suburb: Phillip Bay
+password: jordan
+email: R.Brooks@unsw.edu.au
+full_name: Rich Brooks
+home_latitude: -33.9824
+username: RichSurfer56
+listens: ErinBaby VinceTiger102 VivicaKitten49

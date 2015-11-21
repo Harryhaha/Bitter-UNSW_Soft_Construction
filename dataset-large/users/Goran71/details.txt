@@ -1,0 +1,8 @@
+home_latitude: -33.9428
+email: G.Zivkovic@unsw.edu.au
+username: Goran71
+listens: Susie2 Mary84 Rod408 SillyNaomi29 AliAnimal DemiThinker SadThinker30 HalleStar97 SadTiger79
+home_longitude: 150.9064
+password: doggie
+full_name: Goran Zivkovic
+home_suburb: Liverpool South

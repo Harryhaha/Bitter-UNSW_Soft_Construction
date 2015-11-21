@@ -1,0 +1,8 @@
+password: thx1138
+home_longitude: 151.2221
+listens: YannosPuppy DreamSurfer ChristineBaby JacquesRogge PattiCat58 MichelleAngel029 BijanThinker117 CorinneCat JenniferCat48
+full_name: Ralph Sampson
+home_suburb: University Of New South Wales
+username: Ralph80
+email: R.Sampson@unsw.edu.au
+home_latitude: -33.9193

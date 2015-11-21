@@ -1,0 +1,8 @@
+home_suburb: Darling Point
+home_latitude: -33.8794
+password: 121212
+full_name: Gloria Macapagal Arroyo
+home_longitude: 151.2351
+email: G.M.Arroyo@unsw.edu.au
+username: GloriaThinker
+listens: Nate009 JoshuaBadboy99 ChocolateRomario59 BillFrist JacquelineTiger46 ChristinaBaby

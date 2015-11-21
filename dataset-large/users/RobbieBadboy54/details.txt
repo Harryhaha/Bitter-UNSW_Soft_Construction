@@ -1,0 +1,8 @@
+username: RobbieBadboy54
+email: R.Williams@unsw.edu.au
+password: scooby
+home_latitude: -33.7590
+home_longitude: 151.0434
+full_name: Robbie Williams
+listens: Joseph70 Monica3 Alicia96 HeatherGal25 MarcNerd PriyankaAngel88 Maha208 PolonaNerd06
+home_suburb: West Pennant Hills

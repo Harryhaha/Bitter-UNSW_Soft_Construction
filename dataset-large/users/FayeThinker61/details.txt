@@ -1,0 +1,8 @@
+email: F.Dunaway@unsw.edu.au
+username: FayeThinker61
+home_longitude: 150.7150
+listens: GeekMary36 ToniAngel AlastairStar
+home_latitude: -33.4974
+home_suburb: Blaxlands Ridge
+full_name: Faye Dunaway
+password: nicole

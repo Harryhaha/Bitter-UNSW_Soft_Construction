@@ -1,0 +1,8 @@
+listens: YannosPuppy QueenNerd76 ChristinaGeek DianaKrall SillyEdward91 Rod408 DreamSurfer CoolPuppy68 GeorgeStar MiltonLover
+home_longitude: 151.1957
+full_name: Carolyn Dawn Johnson
+username: HotThinker78
+password: viking
+email: C.D.Johnson@unsw.edu.au
+home_latitude: -33.8811
+home_suburb: Chippendale

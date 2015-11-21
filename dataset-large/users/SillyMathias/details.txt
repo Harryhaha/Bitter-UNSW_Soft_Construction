@@ -1,0 +1,8 @@
+home_suburb: Daceyville
+email: M.Reichhold@unsw.edu.au
+listens: SarahAngel28 HeatherGal25 FunnySandra CrazyTiger TigerGeek11 Alyson90
+full_name: Mathias Reichhold
+password: green
+home_latitude: -33.9349
+username: SillyMathias
+home_longitude: 151.2225

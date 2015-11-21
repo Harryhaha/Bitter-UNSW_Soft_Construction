@@ -1,0 +1,7 @@
+home_longitude: 151.2382
+home_latitude: -33.9209
+password: surfer
+listens: ErinKitten52 ElizabethStar11 Nate009 JustineChick420 MaryPrincess691
+email: N.Maines@unsw.edu.au
+username: RomanticGenius37
+full_name: Natalie Maines

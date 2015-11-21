@@ -1,0 +1,8 @@
+username: Evan166
+password: murphy
+listens: ErinBaby CrazyGordon AwesomeMira86 RobertoLover381 ChocolateRomario59 BrookeGordon LesterBadboy YuriThinker068 PrettyMarisa74
+home_suburb: Randwick
+email: E.R.Wood@unsw.edu.au
+full_name: Evan Rachel Wood
+home_longitude: 151.2350
+home_latitude: -33.9118

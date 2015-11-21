@@ -1,0 +1,6 @@
+email: R.Firman@unsw.edu.au
+home_suburb: Merrylands West
+full_name: Ralph Firman
+listens: RonnieGuy
+username: RalphCat
+password: house

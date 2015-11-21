@@ -1,0 +1,8 @@
+full_name: Rick Husband
+email: R.Husband@unsw.edu.au
+username: RickHusband
+home_latitude: -33.9357
+home_suburb: Sydney Domestic Airport
+home_longitude: 151.1828
+listens: RogerFederer JaimeGeek11
+password: steve

@@ -1,0 +1,8 @@
+password: xxxxx
+email: H.Panettiere@unsw.edu.au
+home_suburb: Annandale
+username: HappyHayden97
+full_name: Hayden Panettiere
+listens: JoshuaBadboy99 LisaCat WinonaBaby14 RomanticGeek59 DesperateCeline DominicBoy HilaryDuff CristianoBoy Rick249 FunGeek RobbieBadboy54
+home_longitude: 151.1741
+home_latitude: -33.8715

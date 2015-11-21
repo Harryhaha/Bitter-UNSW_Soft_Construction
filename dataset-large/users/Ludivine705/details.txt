@@ -1,0 +1,7 @@
+password: bigdaddy
+full_name: Ludivine Sagnier
+home_longitude: 151.1609
+listens: RitaTiger TenderChick CupcakeChristian56 KingBoy26 EmmanuelleThinker GrantGenius
+home_latitude: -33.9141
+email: L.Sagnier@unsw.edu.au
+username: Ludivine705

@@ -1,0 +1,8 @@
+home_latitude: -33.7582
+home_longitude: 151.1570
+email: E.Hawke@unsw.edu.au
+listens: PrettyHermann JenniferAngel FunMark41 John291 RobertoStar PrincessVictoria NorahTiger CuteAndrea28 JacquelineTiger46 JeromeStar483 AndreAgassi SadThinker30 PrincessStephanie
+home_suburb: Gordon
+full_name: Ethan Hawke
+password: ashley
+username: EthanLover

@@ -1,0 +1,8 @@
+full_name: Joshua Gracin
+home_longitude: 151.2266
+listens: AlexDude115 SarahAngel28 PilarTiger MaryPrincess691 HappyHayden97 HotPrincess GloriaThinker MistyPrincess PrettyMarisa74
+password: anthony
+email: J.Gracin@unsw.edu.au
+home_latitude: -33.8791
+home_suburb: Paddington
+username: JoshuaBadboy99

@@ -1,0 +1,8 @@
+home_longitude: 150.7193
+username: NikkiNerd968
+home_latitude: -33.5025
+home_suburb: Blaxlands Ridge
+password: kevin
+listens: ChocolateGeorge28 MichaelNerd31 HappyJon StrongCarson MichelleAngel029 JeromeStar483 SadThinker30
+full_name: Nikki McKibbin
+email: N.McKibbin@unsw.edu.au

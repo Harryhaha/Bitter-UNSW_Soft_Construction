@@ -1,0 +1,8 @@
+full_name: Ali Bin Hussein
+home_suburb: Killarney Heights
+password: bigdaddy
+home_latitude: -33.7804
+listens: MarkMan413 HappyNerd08 CorinneCat Lesley819 Goran71 JaneStar SarahWynter ChristyStar584
+home_longitude: 151.2198
+email: A.B.Hussein@unsw.edu.au
+username: AliAnimal

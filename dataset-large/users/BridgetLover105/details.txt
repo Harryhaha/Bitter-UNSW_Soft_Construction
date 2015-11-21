@@ -1,0 +1,8 @@
+home_latitude: -33.8969
+password: firebird
+email: B.Fonda@unsw.edu.au
+home_longitude: 151.2457
+listens: Nate009 LeonSilver RomanticLaila John291 CoolPuppy68 CarlaLover RogerFederer
+username: BridgetLover105
+full_name: Bridget Fonda
+home_suburb: Queens Park

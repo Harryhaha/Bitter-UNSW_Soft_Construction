@@ -1,0 +1,8 @@
+home_suburb: Mcgraths Hill
+home_longitude: 150.8500
+username: PaulBremer
+listens: VitaliKlitschko MichelleAngel029 Tom87
+home_latitude: -33.6048
+password: chevy
+full_name: Paul Bremer
+email: P.Bremer@unsw.edu.au

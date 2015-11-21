@@ -1,0 +1,8 @@
+password: master
+listens: BobThinker TenderKatie JaimeGeek11 JobCohen SillyGirl79 GeekMary36 CuteAndrea28 StrongCarson VinceTiger102 PattiCat58 AparnaLover399 AndreAgassi RebekahPrincess42
+home_suburb: Holsworthy
+full_name: Stacy Nelson
+home_latitude: -33.9473
+email: S.Nelson@unsw.edu.au
+username: StacyPrincess914
+home_longitude: 150.9406

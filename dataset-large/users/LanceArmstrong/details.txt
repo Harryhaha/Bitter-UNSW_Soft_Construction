@@ -1,0 +1,7 @@
+listens: DonnyGuy Mary84 Evan166 StacyPrincess914 SvetlanaCat70 JeriGeek987 JohnThinker
+home_longitude: 151.2837
+email: L.Armstrong@unsw.edu.au
+home_latitude: -33.8683
+password: monkey
+full_name: Lance Armstrong
+username: LanceArmstrong

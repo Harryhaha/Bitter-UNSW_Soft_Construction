@@ -1,0 +1,8 @@
+home_suburb: Denistone West
+password: mistress
+home_longitude: 151.0715
+listens: Eva198 AndyStar96 RomanticLaila JeriGeek987 JeromeStar483 SadThinker30 LauraNerd CatherineKitten
+username: FunGeek
+email: A.Vega@unsw.edu.au
+full_name: Amelia Vega
+home_latitude: -33.7983

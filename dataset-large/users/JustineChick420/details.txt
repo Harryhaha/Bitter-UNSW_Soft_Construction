@@ -1,0 +1,8 @@
+listens: ErinKitten52 Alicia96 OxanaAngel010 JobCohen ElizabethStar11 SmartTony65 Alyson90 RobertNinja63
+password: cooper
+full_name: Justine Pasek
+home_latitude: -33.8932
+username: JustineChick420
+email: J.Pasek@unsw.edu.au
+home_suburb: Enmore
+home_longitude: 151.1717

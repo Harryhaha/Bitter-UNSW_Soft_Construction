@@ -1,0 +1,8 @@
+email: M.K.Olsen@unsw.edu.au
+home_suburb: Woolloomooloo
+home_longitude: 151.2296
+password: beach
+home_latitude: -33.8667
+full_name: Mary-Kate Olsen
+username: Mary84
+listens: KateKitten18 LanceArmstrong RomanticGeek59 JulieThinker78 Goran71 BertieDude

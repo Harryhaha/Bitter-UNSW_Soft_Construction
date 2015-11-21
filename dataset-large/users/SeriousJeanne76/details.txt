@@ -1,0 +1,6 @@
+username: SeriousJeanne76
+password: pepper
+home_suburb: Clontarf
+listens: IanGeek049 SeriousJuliette MaryPrincess691 TangraBaby82 KateKitten18 SophiaLoren SarahWynter
+full_name: Jeanne Anne Schroeder
+email: J.A.Schroeder@unsw.edu.au

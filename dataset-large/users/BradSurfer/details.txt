@@ -1,0 +1,6 @@
+home_suburb: Maroubra
+email: B.Johnson@unsw.edu.au
+password: soccer
+username: BradSurfer
+full_name: Brad Johnson
+listens: GiannaGirl AlecBaldwin OlesyaBonabarenko HappyPaulina CupcakeFabrice63 PrettyMarisa74

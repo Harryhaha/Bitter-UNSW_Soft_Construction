@@ -1,0 +1,7 @@
+email: A.A.Rosa@unsw.edu.au
+username: AngelaGeek
+full_name: Angela Alvarado Rosa
+home_longitude: 151.1955
+password: matrix
+home_latitude: -33.8623
+listens: CyndiWoman PeriGilpin RayBadboy CreativeDominik80 AaronNinja Samantha41

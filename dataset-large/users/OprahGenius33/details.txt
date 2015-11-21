@@ -1,0 +1,7 @@
+username: OprahGenius33
+password: enter
+email: O.Winfrey@unsw.edu.au
+listens: SillyNerd RobinsonAnimal LisaCat TangraBaby82 SadThinker30 CreativeVanessa BrookeGordon MistyPrincess MarkThinker JaneStar BertieDude
+home_longitude: 151.2056
+full_name: Oprah Winfrey
+home_latitude: -33.8793

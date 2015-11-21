@@ -1,0 +1,8 @@
+listens: CuteAndrea28 Alicia96 SeriousJuliette SmartGal
+home_longitude: 150.9764
+home_suburb: St Albans
+home_latitude: -33.2879
+username: RobertoStar
+email: R.Carlos@unsw.edu.au
+full_name: Roberto Carlos
+password: computer

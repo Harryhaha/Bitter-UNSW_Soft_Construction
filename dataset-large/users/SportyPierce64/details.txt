@@ -1,0 +1,8 @@
+home_longitude: 151.1967
+username: SportyPierce64
+password: rachel
+full_name: Pierce Brosnan
+email: P.Brosnan@unsw.edu.au
+home_suburb: Redfern
+listens: SexyLaura13 PrettyHermann LanaClarkson PriyankaAngel88 Douglas5 FunWoman GenoSurfer52 CrazyGeek31 AlexisTiger SadieWoman17 JenniePrincess85
+home_latitude: -33.8939

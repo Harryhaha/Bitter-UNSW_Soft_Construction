@@ -1,0 +1,8 @@
+full_name: Carla Tricoli
+home_suburb: St Andrews
+home_longitude: 150.8240
+listens: PedroBoy87 JuanGuy DesperateCeline BridgetLover105 ChocolateSurfer33 AwesomeTiger53 Lesley819
+email: C.Tricoli@unsw.edu.au
+username: CarlaLover
+password: united
+home_latitude: -34.0127

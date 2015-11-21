@@ -1,0 +1,8 @@
+email: A.Zakayev@unsw.edu.au
+password: nicole
+home_suburb: Menangle
+home_longitude: 150.7327
+listens: FrancisDude19 PaulDude LeslieTiger RomanticGeek59 FunnyJean DreamKitten CoolPuppy68 PeriGilpin RobertNinja63
+username: FunnyThinker27
+home_latitude: -34.1215
+full_name: Akhmed Zakayev

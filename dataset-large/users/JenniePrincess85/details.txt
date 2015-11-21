@@ -1,0 +1,8 @@
+listens: NeriThinker VickiGal43 AmyWoman65 FunWoman JulieThinker78 SportyPierce64 MarkThinker
+full_name: Jennie Garth
+home_longitude: 151.2080
+home_suburb: Middle Cove
+password: birdie
+email: J.Garth@unsw.edu.au
+home_latitude: -33.7910
+username: JenniePrincess85

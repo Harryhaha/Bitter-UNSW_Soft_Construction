@@ -1,0 +1,8 @@
+home_suburb: Pitt Town
+email: P.Anderszewski@unsw.edu.au
+full_name: Piotr Anderszewski
+username: Piotr271
+password: angel
+home_longitude: 150.8677
+listens: CindyWoman16 CatherineKitten CreativeVanessa KateKitten18 PattiCat58
+home_latitude: -33.5841

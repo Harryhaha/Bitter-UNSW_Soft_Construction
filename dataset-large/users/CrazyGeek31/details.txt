@@ -1,0 +1,7 @@
+full_name: Kimi Raikkonen
+home_longitude: 151.2255
+username: CrazyGeek31
+password: bulldog
+listens: BrookeGordon Julianna9 ElizabethStar11 JacquelineTiger46 Barbara4 BertieDude SpencerDude11 SportyPierce64 ElizabethCat806 HalleStar97 CreativeDominik80 CatherineKitten
+email: K.Raikkonen@unsw.edu.au
+home_latitude: -33.8927

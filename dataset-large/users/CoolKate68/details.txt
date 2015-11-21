@@ -1,0 +1,8 @@
+email: K.Winslet@unsw.edu.au
+home_longitude: 151.2538
+listens: AaronNinja KingBoy26
+password: jason
+full_name: Kate Winslet
+home_suburb: Balgowlah
+home_latitude: -33.8003
+username: CoolKate68

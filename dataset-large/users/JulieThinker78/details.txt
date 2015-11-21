@@ -1,0 +1,8 @@
+home_suburb: Eastgardens
+full_name: Julie Taymor
+email: J.Taymor@unsw.edu.au
+listens: SmartTony65 JenniePrincess85 Anna9 Mary84
+password: giants
+home_latitude: -33.9388
+home_longitude: 151.2142
+username: JulieThinker78

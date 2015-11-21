@@ -1,0 +1,8 @@
+listens: TimWelsh JenniferPuppy DemiThinker John291 MaryPrincess691
+email: B.Peters@unsw.edu.au
+username: CupcakeBernadette77
+home_latitude: -33.9490
+password: time
+home_suburb: Eastgardens
+full_name: Bernadette Peters
+home_longitude: 151.2285

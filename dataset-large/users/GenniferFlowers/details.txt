@@ -1,0 +1,8 @@
+listens: StellaBadboy ElizabethGenius10 JuanPabloMontoya Larenz513 JuanNinja VinceTiger102 MarkGuy79 CindyWoman16
+full_name: Gennifer Flowers
+password: compaq
+email: G.Flowers@unsw.edu.au
+home_suburb: Scotland Island
+home_longitude: 151.2915
+home_latitude: -33.6392
+username: GenniferFlowers

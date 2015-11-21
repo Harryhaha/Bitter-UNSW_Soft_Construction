@@ -1,0 +1,8 @@
+home_latitude: -33.8983
+home_longitude: 151.1444
+full_name: Deece Eckstein
+username: DeeceStar
+password: mine
+listens: DorkyCat84 Trista9 Liza150 DanDude Barry9 Justin1
+home_suburb: Marrickville Metro
+email: D.Eckstein@unsw.edu.au

@@ -1,0 +1,8 @@
+home_suburb: Collaroy
+username: BrookeGordon
+home_longitude: 151.3122
+email: B.Gordon@unsw.edu.au
+home_latitude: -33.7363
+password: beer
+listens: PrettyTatjana75 CrazyGeek31 SeriousJuliette AlexandreThinker93 KeanuReeves PrincessVictoria FunDavid01 Larenz513 JohnDude94 JKGenius ConchitaMartinez MaryElizabethMastrantonio StellaWoman Justin1
+full_name: Brooke Gordon

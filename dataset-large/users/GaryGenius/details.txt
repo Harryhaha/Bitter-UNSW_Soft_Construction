@@ -1,0 +1,7 @@
+home_latitude: -33.9064
+username: GaryGenius
+email: G.Gitnick@unsw.edu.au
+listens: TenderKatie Alicia96 ChristineBaby SillyEdward91 Barbara4 Trista9 CreativeGeek JennaElfman JacquelineTiger46 MonicaGirl41 JohnThinker FunnyJean PrettyMarisa74 SadTiger79
+full_name: Gary Gitnick
+home_longitude: 151.1983
+password: booger

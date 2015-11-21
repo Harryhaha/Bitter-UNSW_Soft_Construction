@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+full_name: Pedro Pauleta
+email: P.Pauleta@unsw.edu.au
+listens: TyraWoman06 Hana10 Julianna9 OliviaGenius JudyVassar Barbara4 JenniferTiger31 GwynethTiger46 JaneStar EmmanuelleStar
+password: sydney
+username: SportyPedro61
+home_longitude: 151.2222
+home_latitude: -33.9210

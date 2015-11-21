@@ -1,0 +1,6 @@
+home_suburb: Hammondville
+password: charlie
+listens: LeslieTiger DorkyAmber78 RichardBoy LauraChick JustineChick420
+email: O.Fedorova@unsw.edu.au
+full_name: Oxana Fedorova
+username: OxanaAngel010

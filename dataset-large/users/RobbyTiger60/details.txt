@@ -1,0 +1,8 @@
+email: R.Ginepri@unsw.edu.au
+listens: Nate009 AshleaWoman970 MaryPrincess691 GwynethTiger46 HilaryDuff PatrickNinja Maha208 CharlesThinker
+home_latitude: -33.9056
+username: RobbyTiger60
+home_longitude: 151.2060
+password: edward
+full_name: Robby Ginepri
+home_suburb: Beaconsfield

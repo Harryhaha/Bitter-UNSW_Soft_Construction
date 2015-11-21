@@ -1,0 +1,7 @@
+full_name: Richard Virenque
+username: RichardBoy
+home_longitude: 151.1914
+home_latitude: -33.8399
+listens: Micah5 NatashaGal OxanaAngel010 RobertoLover381 TenderChick MichelleHofland FunnySandra Martina814 HappyNerd08 VinceTiger102 WeiPrincess681 TomHanks EricAnimal
+password: parker
+email: R.Virenque@unsw.edu.au

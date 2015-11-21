@@ -1,0 +1,7 @@
+username: JenniferCat48
+listens: LleytonStar500 LeahTiger GeorgeStar GeorgeTiger77 TigerGeek11 LauraNerd ChristyStar584
+password: bear
+home_longitude: 151.3011
+full_name: Jennifer Aniston
+home_latitude: -33.7734
+email: J.Aniston@unsw.edu.au

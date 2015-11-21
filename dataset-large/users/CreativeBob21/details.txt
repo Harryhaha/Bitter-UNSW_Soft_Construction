@@ -1,0 +1,7 @@
+full_name: Bob Hope
+listens: Scott99 YannosPuppy RebeccaKitten DanDude CoolKate68 AlexandreThinker93 GalenDude97 PriyankaAngel88 Jen4 SillyNaomi29 RonnieGuy PatrickNinja
+password: kevin
+username: CreativeBob21
+home_latitude: -33.9292
+email: B.Hope@unsw.edu.au
+home_longitude: 151.2316

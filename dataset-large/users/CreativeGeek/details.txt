@@ -1,0 +1,8 @@
+full_name: Joe Crede
+listens: BobThinker DreamSurfer Tom39 HarbhajanSingh GeekMary36 CrazyGordon MistyPrincess GaryGenius Lesley819 TigerGeek11 Tommy13 Jean88 ToniAngel GregDude
+password: johnson
+home_latitude: -33.9226
+home_suburb: University Of New South Wales
+home_longitude: 151.2387
+email: J.Crede@unsw.edu.au
+username: CreativeGeek

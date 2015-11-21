@@ -1,0 +1,8 @@
+home_latitude: -34.0528
+username: AidanGuy15
+full_name: Aidan Quinn
+password: tomcat
+listens: Micah5 SeriousJuliette ElizabethCat806 CreativeVanessa GeekMary36 SergioTiger
+email: A.Quinn@unsw.edu.au
+home_longitude: 151.1331
+home_suburb: Dolans Bay

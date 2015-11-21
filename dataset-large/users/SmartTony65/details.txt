@@ -1,0 +1,7 @@
+password: victoria
+home_latitude: -33.9820
+listens: ErinKitten52 SillyEdward91 JulieThinker78 FunMatt87 SmartGal LauraNerd DorkyAmber78 Liza150 JustineChick420 MerylAngel Sheryl657 CindyWoman16
+email: T.Blair@unsw.edu.au
+home_longitude: 151.1491
+full_name: Tony Blair
+username: SmartTony65

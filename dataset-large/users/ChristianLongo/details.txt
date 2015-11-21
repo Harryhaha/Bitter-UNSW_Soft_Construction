@@ -1,0 +1,8 @@
+home_latitude: -33.8930
+password: camaro
+username: ChristianLongo
+email: C.Longo@unsw.edu.au
+home_longitude: 151.2327
+home_suburb: Woollahra
+full_name: Christian Longo
+listens: SeriousJuliette ChristineBaby AlecBaldwin PortiaGirl SvetlanaCat70 CupcakeJason

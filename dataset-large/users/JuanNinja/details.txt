@@ -1,0 +1,8 @@
+username: JuanNinja
+email: J.R.Riquelme@unsw.edu.au
+home_suburb: Maroubra
+password: mercedes
+home_longitude: 151.2437
+full_name: Juan Roman Riquelme
+home_latitude: -33.9392
+listens: SexyLaura13 SalmaHayek DaveWilliams MarkGuy79 GenniferFlowers StanLover34 JohnDude94 Piotr271 StrongCarson MichaelKitten50 MickBadboy95 VinceTiger102 TenderChick JenniferCat48

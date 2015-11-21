@@ -1,0 +1,8 @@
+email: LeA.Rimes@unsw.edu.au
+full_name: LeAnn Rimes
+home_longitude: 151.2459
+home_latitude: -33.9764
+username: LeAnnRimes
+password: coffee
+listens: JenniferAngel SillyNaomi29 PaulaThinker026 AparnaLover399 ChristinaBaby HugoBadboy520 Sheryl657
+home_suburb: Chifley

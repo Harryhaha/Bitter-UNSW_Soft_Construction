@@ -1,0 +1,6 @@
+home_suburb: Neutral Bay Junction
+email: S.Karsay@unsw.edu.au
+full_name: Steve Karsay
+listens: VanessaStar LucyLiu HeatherGal25
+password: buster
+username: SteveKarsay

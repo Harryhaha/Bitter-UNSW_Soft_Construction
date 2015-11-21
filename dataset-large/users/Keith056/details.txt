@@ -1,0 +1,8 @@
+email: K.Olbermann@unsw.edu.au
+listens: CuteAndrea28 CarrieAnneMoss AaronTiger FunKarl JaimeGeek11
+home_latitude: -33.9101
+full_name: Keith Olbermann
+home_longitude: 151.2267
+username: Keith056
+home_suburb: University Of New South Wales
+password: juice

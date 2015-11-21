@@ -1,0 +1,8 @@
+password: silver
+listens: LeonSilver PilarTiger JoseBoy TenderChick HappyJon Cate6 Tom39 Trista9 HotThinker78
+home_suburb: Ben Buckler
+home_longitude: 151.2801
+full_name: Diana Krall
+email: D.Krall@unsw.edu.au
+home_latitude: -33.8889
+username: DianaKrall

@@ -1,0 +1,8 @@
+full_name: Christine Baumgartner
+listens: ChristianLongo DreamSurfer CuteAli89 SillyGirl79 GLPeiris CrazyTiger GaryGenius WeiPrincess681 SergioTiger BertieDude IbrahimThinker
+password: beach
+home_longitude: 150.9928
+username: ChristineBaby
+home_latitude: -33.7549
+email: C.Baumgartner@unsw.edu.au
+home_suburb: Baulkham Hills

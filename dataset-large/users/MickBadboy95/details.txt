@@ -1,0 +1,8 @@
+home_suburb: Pymble
+password: apples
+home_latitude: -33.7411
+home_longitude: 151.1504
+full_name: Mick McCarthy
+listens: SillyNaomi29 MarkMan413 PilarTiger PrettyTatjana75 HeidiKlum BijanThinker117 DebraGirl ColinGenius AmyWoman65 EmmanuelleStar
+email: M.McCarthy@unsw.edu.au
+username: MickBadboy95

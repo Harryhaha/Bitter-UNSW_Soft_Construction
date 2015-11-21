@@ -1,0 +1,8 @@
+password: mike
+full_name: Jen Schefft
+home_longitude: 151.1211
+home_latitude: -33.9980
+listens: SillyNerd LeonSilver JuanGuy PeriGilpin CreativeBob21 GeorgeTiger77
+home_suburb: Blakehurst
+email: J.Schefft@unsw.edu.au
+username: Jen4

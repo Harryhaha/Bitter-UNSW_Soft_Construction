@@ -1,0 +1,8 @@
+home_suburb: Centennial Park
+home_latitude: -33.8869
+listens: RitaTiger Alicia96 PeterNerd MaryPrincess691 AliAnimal OprahGenius33
+full_name: Jane Krakowski
+home_longitude: 151.2295
+username: JaneStar
+email: J.Krakowski@unsw.edu.au
+password: action

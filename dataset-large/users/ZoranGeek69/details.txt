@@ -1,0 +1,8 @@
+listens: Rosie4 Anna9 ChristopherLover40 PaulAnimal CuteAndrea28 LucyLiu DreamThinker30 PolonaNerd06
+username: ZoranGeek69
+password: 987654
+full_name: Zoran Djindjic
+home_latitude: -33.9076
+home_suburb: University Of New South Wales
+email: Z.Djindjic@unsw.edu.au
+home_longitude: 151.2241

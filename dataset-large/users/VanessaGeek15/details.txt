@@ -1,0 +1,8 @@
+home_suburb: Mount Kuring-Gai
+home_latitude: -33.6651
+username: VanessaGeek15
+email: V.Redgrave@unsw.edu.au
+password: 123123
+home_longitude: 151.1352
+listens: SexyLaura13 Douglas5 SexyBadboy FunMark41 JacquesRogge BertieDude SadTiger79
+full_name: Vanessa Redgrave

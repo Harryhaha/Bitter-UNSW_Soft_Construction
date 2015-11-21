@@ -1,0 +1,8 @@
+password: debbie
+email: A.Jolie@unsw.edu.au
+username: AngelinaCat84
+home_longitude: 151.2242
+home_latitude: -33.9142
+listens: DaisyGirl47 FunMatt87 SeriousDude18 HappyGeek26
+full_name: Angelina Jolie
+home_suburb: University Of New South Wales

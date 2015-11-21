@@ -1,0 +1,8 @@
+username: KevinGenius
+home_suburb: Sydney Domestic Airport
+password: kevin
+email: K.Nealon@unsw.edu.au
+home_longitude: 151.1864
+listens: HappyNerd08 Eva198 Barry9 MistyPrincess
+home_latitude: -33.9370
+full_name: Kevin Nealon

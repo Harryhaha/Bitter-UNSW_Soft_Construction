@@ -1,0 +1,8 @@
+full_name: Alexandre Despatie
+home_longitude: 150.8852
+listens: AaronTiger LeonSilver HeidiKlum Eva198 ChocolateRomario59 GenoSurfer52 DorkyCat84 SmartTony65 CreativeBob21 EmanuelGinobili PrettyHermann CindyWoman16 PolonaNerd06 ToniAngel CharlesThinker
+home_latitude: -33.9863
+username: AlexandreThinker93
+password: charlie
+home_suburb: Macquarie Fields
+email: A.Despatie@unsw.edu.au

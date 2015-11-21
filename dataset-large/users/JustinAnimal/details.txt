@@ -1,0 +1,8 @@
+listens: SillyDerek Tom39 OlesyaBonabarenko HappyGeek26 HalleStar97
+home_suburb: Lansvale
+home_latitude: -33.8952
+password: 1234567
+home_longitude: 150.9472
+full_name: Justin Timberlake
+email: J.Timberlake@unsw.edu.au
+username: JustinAnimal

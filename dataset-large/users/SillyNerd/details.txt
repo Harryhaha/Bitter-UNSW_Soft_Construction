@@ -1,0 +1,8 @@
+listens: DiegoNinja JobCohen Mika96 JenniferTiger31 MarcoThinker49 SpencerDude11 VickiGal43 SillyRachel
+home_longitude: 151.2075
+full_name: Gabi Zimmer
+email: G.Zimmer@unsw.edu.au
+username: SillyNerd
+home_suburb: North Sydney
+home_latitude: -33.8432
+password: gemini

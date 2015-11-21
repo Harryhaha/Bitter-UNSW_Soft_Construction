@@ -1,0 +1,8 @@
+email: M.Bellucci@unsw.edu.au
+username: MonicaGirl41
+home_latitude: -33.9379
+full_name: Monica Bellucci
+home_longitude: 151.1898
+home_suburb: Sydney Domestic Airport
+listens: MarcPuppy588 TyraWoman06 DiegoNinja FayeLover021 RomanticGenius37 John291 StanLover34 NorahTiger AlexandreSurfer Tex988 LauraChick IbrahimThinker
+password: ncc1701

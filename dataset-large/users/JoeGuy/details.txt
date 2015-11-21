@@ -1,0 +1,8 @@
+password: chevy
+full_name: Joe Garner
+username: JoeGuy
+home_suburb: Glendenning
+email: J.Garner@unsw.edu.au
+home_latitude: -33.7491
+listens: MarkGuy79 AlexisTiger
+home_longitude: 150.8508

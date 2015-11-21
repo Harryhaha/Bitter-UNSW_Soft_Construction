@@ -1,0 +1,6 @@
+email: E.Regan@unsw.edu.au
+listens: Cate6 Vince04 JaneKitten RomanticGenius37 AndyStar96 SmartGal DreamKitten CrazyGeek31 JustineChick420
+password: saturn
+full_name: Elizabeth Regan
+home_suburb: University Of New South Wales
+username: ElizabethStar11

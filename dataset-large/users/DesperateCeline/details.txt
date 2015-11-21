@@ -1,0 +1,7 @@
+email: C.Dion@unsw.edu.au
+full_name: Celine Dion
+username: DesperateCeline
+password: startrek
+listens: ErinKitten52 SillyNerd PilarTiger OxanaAngel010 HappyHayden97 CarlaLover AmyLover43 KevinAnimal72 CrazyTiger RobDude SarahWynter
+home_longitude: 150.9176
+home_latitude: -33.8487

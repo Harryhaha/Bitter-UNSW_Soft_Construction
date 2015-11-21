@@ -1,0 +1,8 @@
+home_longitude: 151.0874
+listens: TyraWoman06 RebeccaKitten PilarTiger ChristineBaby HarbhajanSingh JoseCanseco CreativeDominik80 LesterBadboy VanessaStar
+email: W.Wu@unsw.edu.au
+username: WeiPrincess681
+full_name: Wei Wu
+password: welcome
+home_latitude: -33.7789
+home_suburb: Marsfield

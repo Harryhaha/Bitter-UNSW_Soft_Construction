@@ -1,0 +1,8 @@
+username: Cate6
+email: C.Blanchett@unsw.edu.au
+full_name: Cate Blanchett
+home_suburb: Bligh Park
+password: jake
+listens: CupcakeJason FunMark41 ElizabethStar11 HeatherNerd HappyNerd08 Larenz513 PaulaThinker026 TalisaCat DianaKrall LauraChick DaveWilliams
+home_latitude: -33.6290
+home_longitude: 150.7981

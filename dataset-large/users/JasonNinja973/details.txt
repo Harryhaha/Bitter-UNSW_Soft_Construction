@@ -1,0 +1,8 @@
+username: JasonNinja973
+password: gemini
+full_name: Jason Jennings
+home_suburb: Riverview
+home_longitude: 151.1591
+email: J.Jennings@unsw.edu.au
+home_latitude: -33.8217
+listens: GianMarco TenderKatie George2 LucyLiu

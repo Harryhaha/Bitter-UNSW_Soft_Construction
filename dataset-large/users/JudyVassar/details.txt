@@ -1,0 +1,7 @@
+full_name: Judy Vassar
+username: JudyVassar
+home_longitude: 151.2259
+password: helpme
+listens: Nate009 SportyPedro61 FunMark41 ChocolateRomario59 GeorgeTiger77 EmanuelGinobili ElizabethGenius10 JeriGeek987 PaulaThinker026 AliAnimal
+email: J.Vassar@unsw.edu.au
+home_latitude: -33.9206

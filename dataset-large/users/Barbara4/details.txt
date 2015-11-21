@@ -1,0 +1,8 @@
+full_name: Barbara Walters
+home_longitude: 151.1566
+username: Barbara4
+listens: JacquesRogge FunMatt87 KingBoy26 NikkiTiger261 CrazyGeek31 SeriousDude18 SportyPedro61 GaryGenius AntonioMan38 SadThinker84 CupcakeFabrice63 Samantha41 SadTiger79
+password: marlboro
+email: B.Walters@unsw.edu.au
+home_suburb: Monterey
+home_latitude: -33.9782

@@ -1,0 +1,8 @@
+home_longitude: 151.2242
+home_suburb: University Of New South Wales
+username: DominicBoy
+full_name: Dominic Monaghan
+listens: RitaTiger LuisBadboy JaneKitten HappyHayden97 HappyPaulina PaulAnimal DorkyAmber78 JKGenius PaulaThinker026 CindyWoman16
+home_latitude: -33.9087
+email: D.Monaghan@unsw.edu.au
+password: 111111

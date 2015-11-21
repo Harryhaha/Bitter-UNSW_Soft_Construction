@@ -1,0 +1,8 @@
+email: A.Tamblyn@unsw.edu.au
+home_suburb: Redfern
+password: miller
+listens: Micah5 DominicBoy MarkMan413 OxanaAngel010 ToddBadboy SmartTony65 MistyPrincess SvetlanaCat70 JeriGeek987 HalleStar97
+home_latitude: -33.8889
+full_name: Amber Tamblyn
+home_longitude: 151.2046
+username: DorkyAmber78

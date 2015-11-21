@@ -1,0 +1,8 @@
+username: JacquelineTiger46
+home_suburb: Darlington
+home_longitude: 151.1891
+listens: CrazyGeek31 DaisyGirl47 PenelopeGeek GloriaThinker EthanLover KristinCat81 BertieDude
+full_name: Jacqueline Obradors
+home_latitude: -33.9008
+email: J.Obradors@unsw.edu.au
+password: fender

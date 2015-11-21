@@ -1,0 +1,8 @@
+home_latitude: -33.8931
+email: R.Jagday@unsw.edu.au
+home_longitude: 151.2622
+listens: Monica3 YuriThinker068 GenoSurfer52 CreativeBob21 RalphCat
+username: RonnieGuy
+home_suburb: Bellevue Hill
+full_name: Ronnie Jagday
+password: 6666

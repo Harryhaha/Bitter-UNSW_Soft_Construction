@@ -1,0 +1,8 @@
+listens: DreamSurfer Alicia96 CupcakeJason RichSurfer56 ErinBaby DannyNerd MonicaGirl41 MickBadboy95 Tom16 SvetlanaCat70 Jean88 DreamThinker30
+full_name: Faye Wong
+email: F.Wong@unsw.edu.au
+username: FayeLover021
+home_longitude: 151.0902
+password: compaq
+home_latitude: -33.9558
+home_suburb: Penshurst

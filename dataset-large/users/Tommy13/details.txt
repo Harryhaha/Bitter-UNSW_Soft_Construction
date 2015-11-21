@@ -1,0 +1,8 @@
+full_name: Tommy Franks
+email: T.Franks@unsw.edu.au
+username: Tommy13
+password: 987654
+listens: ErinKitten52 Eva198 QueenNerd76 ChocolateRomario59 GalenDude97 SillyNaomi29 MichaelKitten50 CreativeGeek VinceTiger102 ThomasBjorn HotLover56 CupcakeChristian56 Nicole EricAnimal
+home_suburb: Clovelly
+home_latitude: -33.9190
+home_longitude: 151.2594

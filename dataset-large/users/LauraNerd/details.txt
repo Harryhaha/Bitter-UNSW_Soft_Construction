@@ -1,0 +1,8 @@
+listens: George2 GiannaGirl Hana10 Zico SmartTony65 EmanuelGinobili ElizabethCat806 CarrieAnneMoss AndreAgassi FunGeek JenniferCat48
+home_suburb: Belmore
+username: LauraNerd
+home_latitude: -33.9218
+full_name: Laura Linney
+home_longitude: 151.0856
+email: L.Linney@unsw.edu.au
+password: johnny

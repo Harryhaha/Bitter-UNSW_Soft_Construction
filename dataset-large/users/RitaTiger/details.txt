@@ -1,0 +1,6 @@
+password: firebird
+listens: Rosie4 DominicBoy CrazyAnimal42 ErinBaby StellaWoman ToddBadboy KevinAnimal72 Ludivine705 JeriGeek987 JaneStar SillyPamela50 TalisaCat
+home_suburb: Ben Buckler
+full_name: Rita Wilson
+email: R.Wilson@unsw.edu.au
+username: RitaTiger

@@ -1,0 +1,8 @@
+home_suburb: Circular Quay
+email: D.Beckham@unsw.edu.au
+home_longitude: 151.2031
+password: ferrari
+username: RomanticGeek59
+home_latitude: -33.8658
+full_name: David Beckham
+listens: TomThinker HappyHayden97 DesperateCeline Mary84 VivicaKitten49 Rick249

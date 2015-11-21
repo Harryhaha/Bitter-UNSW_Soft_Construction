@@ -1,0 +1,8 @@
+full_name: Rachel Hunter
+email: R.Hunter@unsw.edu.au
+home_longitude: 151.2450
+username: SillyRachel
+listens: SillyNerd IanGeek049 LeahTiger JaimeGeek11 DaveWilliams CarlaLover HappyGeek26 TigerGeek11 CrazyGordon FidelCastro CorinneCat KatieNerd BertieDude
+home_latitude: -33.9517
+home_suburb: Maroubra
+password: victoria

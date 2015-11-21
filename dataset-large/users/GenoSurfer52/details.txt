@@ -1,0 +1,8 @@
+password: calvin
+full_name: Geno Auriemma
+listens: StrongCarson SportyPierce64 RonnieGuy EmanuelGinobili AlexandreThinker93
+email: G.Auriemma@unsw.edu.au
+home_longitude: 151.0963
+home_latitude: -33.8475
+home_suburb: Concord West
+username: GenoSurfer52

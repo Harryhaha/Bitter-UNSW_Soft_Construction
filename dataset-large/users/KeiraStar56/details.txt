@@ -1,0 +1,8 @@
+home_latitude: -33.9038
+listens: RobertoLover381 ChocolateGeorge28 GeorgeStar
+home_longitude: 151.2660
+full_name: Keira Knightley
+home_suburb: Clovelly
+email: K.Knightley@unsw.edu.au
+username: KeiraStar56
+password: newyork

@@ -1,0 +1,8 @@
+home_longitude: 151.1251
+username: CarmenPrincess
+full_name: Carmen Electra
+home_suburb: Sylvania Waters
+listens: BobThinker PeterNerd JulietteBinoche Barbara4 SillyNaomi29 HappyPaulina MickBadboy95 Tom16 FunKarl ThomasBjorn DreamThinker30 ChristinaBaby SadTiger79
+email: C.Electra@unsw.edu.au
+home_latitude: -34.0125
+password: camaro

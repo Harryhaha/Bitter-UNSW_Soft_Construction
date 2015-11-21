@@ -1,0 +1,8 @@
+password: 4444
+home_latitude: -33.8748
+home_longitude: 151.1048
+username: Liza150
+full_name: Liza Minnelli
+listens: SexyLaura13 CrazyGordon LeahTiger TenderChick DeeceStar CyndiWoman SmartTony65 CuteThinker32
+home_suburb: Burwood
+email: L.Minnelli@unsw.edu.au

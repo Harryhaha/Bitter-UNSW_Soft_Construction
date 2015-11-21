@@ -1,0 +1,8 @@
+password: rebecca
+full_name: Christy Turlington
+username: ChristyStar584
+listens: AlexDude115 JenniferAngel ElizabethGenius10 JenniferPuppy PennyBaby PattiCat58 ChristinaBaby JenniferCat48
+home_latitude: -33.8869
+email: C.Turlington@unsw.edu.au
+home_suburb: Petersham
+home_longitude: 151.1620

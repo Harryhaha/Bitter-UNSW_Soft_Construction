@@ -1,0 +1,8 @@
+password: casper
+listens: Zico SmartGal JKGenius ZoranGeek69 VinceTiger102 SadThinker84 SarahWynter
+full_name: Anna Faris
+home_latitude: -33.8744
+home_longitude: 151.2350
+email: A.Faris@unsw.edu.au
+home_suburb: Darling Point
+username: Anna9

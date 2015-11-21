@@ -1,0 +1,8 @@
+home_latitude: -33.9509
+listens: NikkiNerd968 CrazyTiger
+email: G.P Bush@unsw.edu.au
+home_suburb: Kingsgrove
+password: jackie
+username: ChocolateGeorge28
+home_longitude: 151.1095
+full_name: George P Bush

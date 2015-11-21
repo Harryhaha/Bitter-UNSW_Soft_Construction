@@ -1,0 +1,8 @@
+listens: SadGus HappyHayden97 AlecBaldwin FunnySandra AparnaLover399 JeriGeek987 PolonaNerd06
+home_suburb: Haymarket
+full_name: Hilary Duff
+home_latitude: -33.8735
+password: patrick
+home_longitude: 151.2006
+username: HilaryDuff
+email: H.Duff@unsw.edu.au

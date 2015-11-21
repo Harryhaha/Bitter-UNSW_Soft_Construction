@@ -1,0 +1,7 @@
+home_longitude: 151.2890
+home_latitude: -33.7826
+full_name: Princess Victoria
+password: shannon
+listens: Nate009 MeganCat34 Markus08 EthanLover TenderChick CameronGeek BrookeGordon VickiGal43 DreamThinker30 CorinneCat SadThinker84 CharlesThinker
+email: P.Victoria@unsw.edu.au
+username: PrincessVictoria

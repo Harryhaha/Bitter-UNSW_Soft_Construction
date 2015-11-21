@@ -1,0 +1,6 @@
+home_suburb: Camperdown
+password: golfer
+listens: SillyNaomi29 CarrieAnneMoss PilarTiger
+username: MichaelThinker
+email: M.Sullivan@unsw.edu.au
+full_name: Michael Sullivan

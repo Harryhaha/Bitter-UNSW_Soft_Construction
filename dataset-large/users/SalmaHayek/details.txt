@@ -1,0 +1,8 @@
+email: S.Hayek@unsw.edu.au
+username: SalmaHayek
+password: master
+home_longitude: 151.2203
+full_name: Salma Hayek
+home_suburb: University Of New South Wales
+home_latitude: -33.9227
+listens: PrettyLover JuanNinja Alicia96

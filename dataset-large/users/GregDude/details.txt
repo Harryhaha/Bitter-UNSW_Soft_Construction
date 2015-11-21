@@ -1,0 +1,8 @@
+email: G.Owen@unsw.edu.au
+home_suburb: Pitt Town
+password: muffin
+listens: SergioTiger Mary84 ToniAngel Markus08
+home_longitude: 150.8675
+home_latitude: -33.5904
+full_name: Greg Owen
+username: GregDude

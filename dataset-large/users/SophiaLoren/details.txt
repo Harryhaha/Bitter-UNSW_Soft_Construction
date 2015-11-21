@@ -1,0 +1,8 @@
+home_longitude: 151.1902
+email: S.Loren@unsw.edu.au
+full_name: Sophia Loren
+password: sexsex
+home_latitude: -33.9097
+username: SophiaLoren
+listens: JuanGuy SadGus StrongCarson Rob9 IlanBadboy370
+home_suburb: Erskineville

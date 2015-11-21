@@ -1,0 +1,8 @@
+home_longitude: 151.1955
+listens: SmartGal Ken36 Mika96 DreamKitten Jen4 DemiThinker JenniferCat48
+full_name: George Papandreou
+password: viking
+home_suburb: East Lindfield
+home_latitude: -33.7635
+email: G.Papandreou@unsw.edu.au
+username: GeorgeTiger77

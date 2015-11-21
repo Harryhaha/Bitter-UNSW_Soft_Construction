@@ -1,0 +1,8 @@
+home_longitude: 151.1196
+listens: MarcPuppy588 SportyFrank02 JoseBoy KingBoy26 StacyPrincess914 FranzNerd29 PattiCat58 JenniePrincess85 Sheryl657 OprahGenius33
+password: mountain
+full_name: Mark Podlesny
+username: MarkThinker
+home_suburb: Putney
+home_latitude: -33.8324
+email: M.Podlesny@unsw.edu.au

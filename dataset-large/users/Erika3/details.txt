@@ -1,0 +1,8 @@
+password: monkey
+listens: AlexDude115 RobertTiger CameronGeek SadFranck38 FunKarl
+home_suburb: Mcmahons Point
+home_latitude: -33.8358
+home_longitude: 151.2027
+full_name: Erika Christensen
+email: E.Christensen@unsw.edu.au
+username: Erika3

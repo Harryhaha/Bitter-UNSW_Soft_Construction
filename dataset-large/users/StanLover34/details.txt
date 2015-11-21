@@ -1,0 +1,7 @@
+home_latitude: -33.8872
+full_name: Stan Kroenke
+email: S.Kroenke@unsw.edu.au
+username: StanLover34
+home_longitude: 151.1105
+password: xxxx
+listens: KeiraStar56 CrazyGeek31 MonicaGirl41 JuanNinja HalleStar97

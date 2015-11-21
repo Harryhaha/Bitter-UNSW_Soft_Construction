@@ -1,0 +1,8 @@
+home_suburb: Millers Point
+home_latitude: -33.8664
+username: FunDavid01
+password: golden
+email: D.Wolf@unsw.edu.au
+home_longitude: 151.2095
+listens: MerylAngel PedroBoy87 AaronTiger Ken36
+full_name: David Wolf

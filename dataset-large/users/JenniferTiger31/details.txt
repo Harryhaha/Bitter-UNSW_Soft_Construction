@@ -1,0 +1,8 @@
+home_suburb: Darlington
+username: JenniferTiger31
+listens: SillyNerd YannosPuppy RobertoLover381 DannyNerd DeeceStar AngelinaCat84 SportyPedro61 TimWelsh CatherineKitten
+password: bigdaddy
+email: J.Lopez@unsw.edu.au
+full_name: Jennifer Lopez
+home_longitude: 151.1853
+home_latitude: -33.8842

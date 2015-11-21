@@ -1,0 +1,8 @@
+password: robert
+home_latitude: -33.8928
+username: CourtneyAngel57
+home_longitude: 151.2645
+listens: TomThinker ChristinaGeek KeanuReeves DaveWilliams CameronGeek CrazyLaura Maha208 SillyPamela50
+home_suburb: Tamarama
+full_name: Courtney Cox
+email: C.Cox@unsw.edu.au

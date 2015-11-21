@@ -1,0 +1,8 @@
+home_latitude: -33.8552
+username: Larenz513
+email: L.Tate@unsw.edu.au
+listens: Rick249 CristianoBoy SzuYuChen Julianna9 HarbhajanSingh CarlosNinja Cate6 MichaelKitten50 MickeyStar LisaLover MaryElizabethMastrantonio GeorgeStar
+home_suburb: Birchgrove
+full_name: Larenz Tate
+password: monica
+home_longitude: 151.1715

@@ -1,0 +1,8 @@
+email: M.Welsh@unsw.edu.au
+home_suburb: Maroubra
+username: SillyMatt71
+home_latitude: -33.9419
+password: snoopy
+home_longitude: 151.2520
+listens: LanaClarkson AlexandreThinker93 StrongCarson VinceTiger102 Sheryl657 BrainyStar CreativeMadonna LauraChick
+full_name: Matt Welsh

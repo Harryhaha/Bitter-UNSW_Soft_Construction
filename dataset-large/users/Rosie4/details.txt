@@ -1,0 +1,8 @@
+username: Rosie4
+home_latitude: -34.0146
+home_longitude: 151.2099
+full_name: Rosie Perez
+password: pookie
+listens: ZoranGeek69 HeatherGal25 Nicole EmmanuelleStar
+home_suburb: Kurnell
+email: R.Perez@unsw.edu.au

@@ -1,0 +1,8 @@
+home_longitude: 151.2343
+listens: HeatherNerd PrincessVictoria BritneyNerd903 SadFranck38
+full_name: Megan Mullally
+home_suburb: University Of New South Wales
+email: M.Mullally@unsw.edu.au
+username: MeganCat34
+password: scott
+home_latitude: -33.9189

@@ -1,0 +1,8 @@
+username: Scott99
+listens: SexyLaura13 Alicia96 DonnyGuy John291 BrainyStar47 SpencerDude11 KurtLover36 CreativeBob21 RomanticLaila Sheryl657
+home_longitude: 151.0381
+full_name: Scott Blum
+email: S.Blum@unsw.edu.au
+password: oliver
+home_latitude: -33.4468
+home_suburb: Lower Hawkesbury

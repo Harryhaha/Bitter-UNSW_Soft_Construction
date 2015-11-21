@@ -1,0 +1,8 @@
+listens: NatashaGal AlexisTiger Rob9 EthanLover BrainyStar47 BradSurfer VinceTiger102 HotLover56 LeAnnRimes SillyPamela50 ToniAngel
+email: J.Connelly@unsw.edu.au
+home_longitude: 151.1822
+home_suburb: Erskineville
+username: JenniferAngel
+password: cookie
+full_name: Jennifer Connelly
+home_latitude: -33.8949

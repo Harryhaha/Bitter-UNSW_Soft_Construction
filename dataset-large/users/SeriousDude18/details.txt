@@ -1,0 +1,8 @@
+email: E.Norton@unsw.edu.au
+home_suburb: Neutral Bay
+username: SeriousDude18
+password: xxxxxxxx
+listens: CarrieAnneMoss Alicia96 IlanBadboy370 ElizabethStar11 AlexandreSurfer Barbara4 CalistaPrincess SillyGirl79 JulietteBinoche VanessaStar Tommy13 ChristinaBaby RobertNinja63 AmyWoman65
+home_latitude: -33.8329
+full_name: Edward Norton
+home_longitude: 151.2230

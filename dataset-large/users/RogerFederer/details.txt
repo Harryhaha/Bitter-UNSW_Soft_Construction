@@ -1,0 +1,8 @@
+username: RogerFederer
+password: leather
+listens: RickHusband LeahTiger HappyNerd08 MarkGuy79 JenniferPuppy Ken36 JustinAnimal SpencerDude11 JuanNinja MaryElizabethMastrantonio BridgetLover105 NikkiTiger261
+home_latitude: -33.6368
+home_suburb: Scotland Island
+email: R.Federer@unsw.edu.au
+full_name: Roger Federer
+home_longitude: 151.2860

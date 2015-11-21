@@ -1,0 +1,8 @@
+username: SadFranck38
+home_latitude: -33.8406
+home_longitude: 151.0454
+listens: FrancisDude19 CarrieAnneMoss PrettyLover SillyEdward91 SexyTiger43 JohnDude94 DreamSurfer KristinCat81 RobDude Erika3 AmandaGeek
+email: F.Cerutti@unsw.edu.au
+full_name: Franck Cerutti
+password: mountain
+home_suburb: Silverwater

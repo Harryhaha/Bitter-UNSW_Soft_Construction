@@ -1,0 +1,8 @@
+home_suburb: St Peters
+full_name: Fidel Castro
+username: FidelCastro
+home_longitude: 151.1719
+email: F.Castro@unsw.edu.au
+home_latitude: -33.9151
+password: green
+listens: YannosPuppy Julianna9 ToddBadboy Tom39 Keith056 KurtLover36 CoolPuppy68 SillyRachel HalleStar97

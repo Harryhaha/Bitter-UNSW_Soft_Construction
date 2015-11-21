@@ -1,0 +1,8 @@
+email: A.Yasbeck@unsw.edu.au
+home_longitude: 151.0836
+full_name: Amy Yasbeck
+listens: JaimeGeek11 DesperateCeline Ken36 Mika96 DreamKitten TimWelsh
+username: AmyLover43
+home_suburb: Kingsway West
+password: fish
+home_latitude: -33.9385

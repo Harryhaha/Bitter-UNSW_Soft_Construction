@@ -1,0 +1,8 @@
+listens: FunMark41 Scott99 HotLover56 CarrieAnneMoss Eliza6
+email: C.Church@unsw.edu.au
+home_longitude: 151.1382
+home_suburb: Five Dock
+full_name: Charlotte Church
+username: BrainyStar47
+password: carter
+home_latitude: -33.8747

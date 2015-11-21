@@ -1,0 +1,8 @@
+full_name: Corinne Coman
+home_latitude: -33.8225
+username: CorinneCat
+password: guitar
+home_longitude: 151.1890
+home_suburb: Wollstonecraft
+listens: ErinKitten52 KeanuReeves JacquesRogge SzuYuChen PaulAnimal PrincessVictoria PaulDude SillyRachel
+email: C.Coman@unsw.edu.au

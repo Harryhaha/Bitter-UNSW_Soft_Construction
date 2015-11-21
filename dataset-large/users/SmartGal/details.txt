@@ -1,0 +1,8 @@
+password: jennifer
+home_latitude: -33.5932
+listens: VitaliKlitschko Nate009 KeanuReeves Julianna9 ElizabethStar11 SmartTony65 RobertoStar SillyGirl79 Anna9 GeorgeTiger77 VinceTiger102 AntonioMan38 Alyson90
+home_suburb: Scheyville
+username: SmartGal
+full_name: Faye Alibocus
+email: F.Alibocus@unsw.edu.au
+home_longitude: 150.8947

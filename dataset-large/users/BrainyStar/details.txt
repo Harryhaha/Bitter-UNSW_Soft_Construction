@@ -1,0 +1,7 @@
+password: 112233
+full_name: Naomi Campbell
+home_latitude: -33.7643
+home_suburb: Allambie Heights
+email: N.Campbell@unsw.edu.au
+username: BrainyStar
+home_longitude: 151.2392

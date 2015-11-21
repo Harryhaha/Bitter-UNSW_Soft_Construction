@@ -1,0 +1,8 @@
+home_latitude: -33.6533
+home_longitude: 151.0035
+listens: QueenNerd76 ChocolateRomario59 GalenDude97 Pete21 KevinGenius EmmanuelleThinker RogerFederer ColinGenius
+password: hockey
+username: HappyNerd08
+home_suburb: Kenthurst
+email: S.Stone@unsw.edu.au
+full_name: Sharon Stone

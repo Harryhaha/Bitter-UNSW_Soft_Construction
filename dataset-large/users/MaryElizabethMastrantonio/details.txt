@@ -1,0 +1,8 @@
+home_latitude: -33.8865
+password: melissa
+username: MaryElizabethMastrantonio
+email: M.E.Mastrantonio@unsw.edu.au
+listens: JaneKitten AidanGuy15 OlesyaBonabarenko BrookeGordon Larenz513 MichelleAngel029 VinceTiger102 CuteTiger09 Christine280 RogerFederer
+home_suburb: Ashfield
+full_name: Mary Elizabeth Mastrantonio
+home_longitude: 151.1239

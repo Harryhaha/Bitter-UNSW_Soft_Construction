@@ -1,0 +1,8 @@
+email: C.Z.Jones@unsw.edu.au
+password: mother
+listens: Piotr271 DominicBoy HappyGeek26 JenniferTiger31 CrazyGeek31 StellaWoman
+home_latitude: -33.8931
+home_longitude: 151.1936
+full_name: Catherine Zeta-Jones
+username: CatherineKitten
+home_suburb: The University Of Sydney

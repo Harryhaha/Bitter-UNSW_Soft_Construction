@@ -1,0 +1,8 @@
+home_longitude: 151.0708
+email: M.Streep@unsw.edu.au
+username: MerylAngel
+full_name: Meryl Streep
+home_suburb: Como
+listens: Piotr271 TenderKatie SadGus FunnyJean HarbhajanSingh SteveKarsay FunDavid01 AparnaLover399 MichelleAngel029 VanessaStar
+password: ncc1701
+home_latitude: -34.0079

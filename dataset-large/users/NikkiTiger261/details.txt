@@ -1,0 +1,8 @@
+home_latitude: -33.8905
+username: NikkiTiger261
+home_longitude: 151.2072
+home_suburb: Haymarket
+email: N.Reed@unsw.edu.au
+listens: CupcakeJason PortiaGirl Barbara4 SergioTiger RogerFederer ToniAngel
+full_name: Nikki Reed
+password: 1212

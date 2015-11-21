@@ -1,0 +1,8 @@
+full_name: Gordon McDonald
+home_longitude: 150.9140
+home_suburb: Seven Hills West
+password: master
+username: CrazyGordon
+listens: AlexDude115 MariahGeek70 AlexandreSurfer HappyGeek26 Evan166 CreativeGeek VinceTiger102 SillyRachel IbrahimThinker
+home_latitude: -33.7667
+email: G.McDonald@unsw.edu.au

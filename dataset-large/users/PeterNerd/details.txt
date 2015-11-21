@@ -1,0 +1,8 @@
+home_latitude: -33.5806
+home_longitude: 150.8562
+password: buster
+home_suburb: Pitt Town
+full_name: Peter Gilmour
+listens: BobThinker Hamid90 MistyPrincess CarmenPrincess AnaAngel166 TalisaCat
+username: PeterNerd
+email: P.Gilmour@unsw.edu.au

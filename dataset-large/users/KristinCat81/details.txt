@@ -1,0 +1,8 @@
+home_suburb: Kingsford
+listens: GiannaGirl OlesyaBonabarenko SadFranck38 LucyLiu JacquelineTiger46 Rick249
+username: KristinCat81
+email: K.Davis@unsw.edu.au
+home_latitude: -33.9335
+full_name: Kristin Davis
+home_longitude: 151.2260
+password: zxcvbn

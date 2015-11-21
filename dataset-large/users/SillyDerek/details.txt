@@ -1,0 +1,8 @@
+full_name: Derek Jeter
+listens: SadGus LeonSilver SeriousJuliette SzuYuChen FunMark41 SillyEdward91 JustinAnimal AidanGuy15 BillFrist JustineChick420 Nicole
+email: D.Jeter@unsw.edu.au
+home_longitude: 151.2326
+home_latitude: -33.9732
+password: sparky
+home_suburb: Port Botany
+username: SillyDerek

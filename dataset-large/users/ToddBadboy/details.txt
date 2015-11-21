@@ -1,0 +1,8 @@
+home_latitude: -34.1780
+password: john
+full_name: Todd Petit
+listens: RitaTiger FidelCastro CameronGeek FunnySandra JennaElfman IbrahimThinker
+home_suburb: Douglas Park
+home_longitude: 150.7186
+email: T.Petit@unsw.edu.au
+username: ToddBadboy

@@ -1,0 +1,8 @@
+home_longitude: 151.2373
+home_latitude: -33.9212
+full_name: Pedro Velasquez
+username: PedroBoy87
+email: P.Velasquez@unsw.edu.au
+home_suburb: University Of New South Wales
+password: scooby
+listens: SexyLaura13 ChristinaGeek JaimeGeek11 JacquesRogge CarlaLover PrettyTatjana75 Tom16 HeidiKlum AnaAngel166 BritneyNerd903

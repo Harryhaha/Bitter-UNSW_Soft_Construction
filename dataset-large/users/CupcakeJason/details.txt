@@ -1,0 +1,8 @@
+home_suburb: Double Bay
+username: CupcakeJason
+home_longitude: 151.2518
+home_latitude: -33.8790
+listens: ChristianLongo CrazyAnimal42 FranzBadboy JuanNinja FayeLover021 NikkiTiger261
+full_name: Jason Lezak
+email: J.Lezak@unsw.edu.au
+password: 987654

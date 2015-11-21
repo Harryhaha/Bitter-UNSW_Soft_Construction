@@ -1,0 +1,8 @@
+username: AndreAgassi
+listens: EthanLover StacyPrincess914 EmanuelGinobili BritneyNerd903 DanDude PattiCat58
+email: A.Agassi@unsw.edu.au
+home_latitude: -33.8949
+home_longitude: 151.2107
+full_name: Andre Agassi
+password: hello
+home_suburb: Chippendale

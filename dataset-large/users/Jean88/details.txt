@@ -1,0 +1,8 @@
+home_longitude: 151.2381
+username: Jean88
+home_latitude: -33.9224
+email: J.S.Giguere@unsw.edu.au
+listens: SillyNaomi29 FayeLover021 AndyStar96 JobCohen BrainyRatna30 RayBadboy CreativeGeek LesterBadboy VivicaKitten49 JuanPabloMontoya AnaAngel166 RobertNinja63
+password: angels
+full_name: Jean-Sebastien Giguere
+home_suburb: University Of New South Wales

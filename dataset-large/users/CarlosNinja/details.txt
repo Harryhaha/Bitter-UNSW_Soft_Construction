@@ -1,0 +1,6 @@
+username: CarlosNinja
+full_name: Carlos Moya
+email: C.Moya@unsw.edu.au
+home_suburb: Yagoona
+listens: TyraWoman06 SarahAngel28 QueenNerd76 LisaCat SadGus FunnyJean NorahTiger BritneyNerd903 RebekahPrincess42 KurtLover36 MiltonLover IbrahimThinker
+password: eagles

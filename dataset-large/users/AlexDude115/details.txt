@@ -1,0 +1,8 @@
+home_suburb: St Leonards
+listens: TenderKatie CyndiWoman Erika3 EmanuelGinobili Eliza6 ChristyStar584
+password: 232323
+home_longitude: 151.2040
+username: AlexDude115
+full_name: Alex Penelas
+email: A.Penelas@unsw.edu.au
+home_latitude: -33.8270

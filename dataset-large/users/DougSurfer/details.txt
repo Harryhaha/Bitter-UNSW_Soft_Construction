@@ -1,0 +1,8 @@
+password: helpme
+home_suburb: Berowra
+username: DougSurfer
+full_name: Doug Duncan
+home_latitude: -33.6166
+email: D.Duncan@unsw.edu.au
+listens: GianMarco ChristinaBaby PortiaGirl HappyGeek26 FunnySandra
+home_longitude: 151.1482

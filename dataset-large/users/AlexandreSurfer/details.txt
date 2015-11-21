@@ -1,0 +1,8 @@
+listens: SadGus MichaelNerd31 MarkGuy79 John291 GenniferFlowers MonicaGirl41 CrazyGordon SeriousDude18 RebeccaKitten Erika3 CuteTiger09 Tom87
+home_suburb: Centennial Park
+home_latitude: -33.8878
+full_name: Alexandre Daigle
+password: starwars
+home_longitude: 151.2309
+email: A.Daigle@unsw.edu.au
+username: AlexandreSurfer

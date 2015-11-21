@@ -1,0 +1,8 @@
+home_suburb: Eastwood
+email: H.Maier@unsw.edu.au
+full_name: Hermann Maier
+password: peter
+listens: MarkGuy79 CindyWoman16 SzuYuChen FunnyJean AlexandreThinker93
+home_longitude: 151.0883
+home_latitude: -33.7803
+username: PrettyHermann

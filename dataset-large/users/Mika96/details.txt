@@ -1,0 +1,6 @@
+username: Mika96
+email: M.Hakkinen@unsw.edu.au
+password: doctor
+full_name: Mika Hakkinen
+listens: Nate009 SillyNerd LeahTiger PrettyLover AmyLover43 GeorgeTiger77 Christine280
+home_suburb: University Of New South Wales

@@ -1,0 +1,8 @@
+password: richard
+home_latitude: -33.8933
+home_longitude: 151.2570
+username: MarcoThinker49
+listens: SillyNerd RobinsonAnimal SadGus JobCohen SexyTiger43 PaulAnimal JacquesRogge DreamThinker30 AmandaGeek LauraChick Samantha41
+home_suburb: Queens Park
+full_name: Marco Archer Cardoso Moreira
+email: M.A.C.Moreira@unsw.edu.au

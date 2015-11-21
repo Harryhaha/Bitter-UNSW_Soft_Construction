@@ -1,0 +1,8 @@
+home_longitude: 151.2597
+email: S.Abraham@unsw.edu.au
+full_name: Spencer Abraham
+password: hello
+home_latitude: -33.9118
+home_suburb: Clovelly West
+username: SpencerDude11
+listens: SillyNerd BrainyRatna30 ToddBadboy PenelopeGeek JKGenius CrazyGeek31 HeidiKlum

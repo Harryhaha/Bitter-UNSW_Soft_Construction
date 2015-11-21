@@ -1,0 +1,8 @@
+email: C.Palmer@unsw.edu.au
+username: StrongCarson
+listens: LisaCat LuisBadboy SillyMatt71 OliviaGenius OlesyaBonabarenko Holly6 GenoSurfer52 JohnDude94 Lesley819 DebraGirl NikkiNerd968 SillyPamela50
+home_latitude: -33.5815
+password: giants
+home_longitude: 150.6266
+home_suburb: Bowen Mountain
+full_name: Carson Palmer

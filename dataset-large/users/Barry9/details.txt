@@ -1,0 +1,8 @@
+full_name: Barry Williams
+home_latitude: -33.9101
+home_longitude: 151.1343
+home_suburb: Dulwich Hill
+listens: VanessaGeek15 SillyEdward91 DeeceStar MichelleAngel029 MickeyStar BillFrist KevinGenius StellaWoman
+password: london
+username: Barry9
+email: B.Williams@unsw.edu.au

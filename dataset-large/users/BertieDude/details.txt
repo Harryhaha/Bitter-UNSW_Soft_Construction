@@ -1,0 +1,8 @@
+home_suburb: Wareemba
+home_latitude: -33.8561
+username: BertieDude
+home_longitude: 151.1394
+full_name: Bertie Ahern
+email: B.Ahern@unsw.edu.au
+listens: KeanuReeves Mary84 CrazyGeek31 SillyRachel OprahGenius33 JacquelineTiger46 Ralph80
+password: phoenix

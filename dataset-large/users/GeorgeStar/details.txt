@@ -1,0 +1,8 @@
+email: G.Clooney@unsw.edu.au
+home_longitude: 151.2279
+home_latitude: -33.7457
+home_suburb: Frenchs Forest
+password: august
+full_name: George Clooney
+listens: KeiraStar56 Piotr271 DreamThinker30 JobCohen PenelopeGeek NorahTiger Larenz513 HotThinker78 AnaAngel166 ReginaldHudlin
+username: GeorgeStar

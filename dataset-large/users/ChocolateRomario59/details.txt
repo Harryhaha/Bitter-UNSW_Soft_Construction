@@ -1,0 +1,8 @@
+listens: JamieStar49 HeatherGal25 ChristineBaby AlexandreThinker93 HappyNerd08 BrainyRatna30 CupcakeChristian56 JudyVassar Evan166 CalistaPrincess GloriaThinker Tom39 Tommy13 MaryElizabethMastrantonio StellaWoman
+full_name: Romario Farias
+home_latitude: -33.9634
+home_longitude: 151.2480
+home_suburb: Malabar
+password: richard
+username: ChocolateRomario59
+email: R.Farias@unsw.edu.au

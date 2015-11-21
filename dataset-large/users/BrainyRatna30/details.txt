@@ -1,0 +1,8 @@
+username: BrainyRatna30
+listens: Nate009 NatashaGal ChocolateRomario59 SpencerDude11 LisaLover PriyankaAngel88 TangraBaby82 AwesomeTiger53 PattiCat58 Jean88 TomHanks
+full_name: Ratna Sari Dewi Sukarno
+password: richard
+home_latitude: -34.0085
+home_suburb: Sandringham
+email: R.S.D.Sukarno@unsw.edu.au
+home_longitude: 151.1318

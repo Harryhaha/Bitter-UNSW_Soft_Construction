@@ -1,0 +1,8 @@
+full_name: Stella Tennant
+home_suburb: University Of New South Wales
+username: StellaBadboy
+password: testing
+email: S.Tennant@unsw.edu.au
+home_latitude: -33.9211
+listens: JamieStar49
+home_longitude: 151.2318

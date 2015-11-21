@@ -1,0 +1,8 @@
+home_latitude: -33.8066
+listens: PrettyHermann CrazyAnimal42 NerdyMichael52 HappyJon FunnyThinker27 GaryGenius DemiThinker SadThinker84 CarlosNinja BertieDude PrettyMarisa74
+username: FunnyJean
+home_longitude: 150.9284
+full_name: Jean-Rene Fourtou
+home_suburb: Pemulwuy
+email: J.R.Fourtou@unsw.edu.au
+password: fred

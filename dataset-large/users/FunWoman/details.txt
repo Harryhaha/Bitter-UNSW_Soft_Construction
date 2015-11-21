@@ -1,0 +1,8 @@
+home_latitude: -34.1187
+full_name: Jessica Alba
+home_suburb: Wedderburn
+password: summer
+username: FunWoman
+listens: NorahTiger MikeWeir JenniePrincess85
+home_longitude: 150.8089
+email: J.Alba@unsw.edu.au

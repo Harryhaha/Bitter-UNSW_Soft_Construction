@@ -1,0 +1,6 @@
+full_name: Oscar De La Hoya
+email: O.D.L.Hoya@unsw.edu.au
+password: dragon
+listens: KateKitten18 IlanBadboy370
+username: OscarNinja
+home_suburb: Darlinghurst

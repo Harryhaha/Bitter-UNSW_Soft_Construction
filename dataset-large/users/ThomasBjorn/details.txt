@@ -1,0 +1,7 @@
+home_longitude: 151.2163
+home_latitude: -33.8998
+listens: SarahAngel28 VinceTiger102 HeatherGal25 AwesomeMira86 Raul117 CarmenPrincess SvetlanaCat70 GeekMary36 Tommy13 TimWelsh CourtneyAngel57 GrantGenius
+full_name: Thomas Bjorn
+password: boomer
+username: ThomasBjorn
+email: T.Bjorn@unsw.edu.au

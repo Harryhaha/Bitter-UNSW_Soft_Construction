@@ -1,0 +1,8 @@
+home_longitude: 151.3327
+full_name: Lisa Marie Presley
+home_latitude: -33.6559
+username: LisaCat
+listens: HappyHayden97 John291 StrongCarson SadThinker30 CarlosNinja
+email: L.M.Presley@unsw.edu.au
+home_suburb: Newport Beach
+password: steelers

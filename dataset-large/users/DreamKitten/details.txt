@@ -1,0 +1,8 @@
+full_name: Lara Logan
+password: video
+home_longitude: 151.2630
+email: L.Logan@unsw.edu.au
+home_latitude: -33.9124
+listens: RebeccaKitten SzuYuChen JuanGuy ElizabethStar11 AlexandreSurfer FunnyThinker27 GeorgeTiger77 AlexisTiger AmyLover43 PrettyMarisa74
+username: DreamKitten
+home_suburb: Coogee

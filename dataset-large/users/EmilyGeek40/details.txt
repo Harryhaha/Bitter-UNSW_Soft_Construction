@@ -1,0 +1,8 @@
+username: EmilyGeek40
+home_suburb: Clovelly West
+home_latitude: -33.9060
+listens: OlesyaBonabarenko GalenDude97
+full_name: Emily Robison
+email: E.Robison@unsw.edu.au
+home_longitude: 151.2463
+password: marine

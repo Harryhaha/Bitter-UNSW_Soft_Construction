@@ -1,0 +1,8 @@
+listens: HeatherGal25 DaisyGirl47 Raul117 MichelleHofland SexyTiger43 CalistaPrincess Christine280 AnaAngel166 ReginaldHudlin
+home_longitude: 151.2288
+full_name: Miguel Hakim
+home_latitude: -33.8679
+password: bill
+username: CupcakeMiguel
+email: M.Hakim@unsw.edu.au
+home_suburb: Woolloomooloo

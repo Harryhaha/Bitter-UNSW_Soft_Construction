@@ -1,0 +1,8 @@
+full_name: Rich Gannon
+email: R.Gannon@unsw.edu.au
+home_longitude: 151.1721
+listens: JenniferAngel JenniferPuppy BrainyStar47 HappyPaulina RebeccaKitten Tommy13
+home_suburb: Woolwich
+username: HotLover56
+password: enjoy
+home_latitude: -33.8342

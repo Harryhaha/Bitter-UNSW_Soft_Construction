@@ -1,0 +1,8 @@
+username: TalisaCat
+listens: Cate6 Tom39 MichaelKitten50 CrazyTiger ChocolateRomario59
+home_suburb: Scheyville
+home_longitude: 150.8842
+full_name: Talisa Soto
+password: chelsea
+home_latitude: -33.5955
+email: T.Soto@unsw.edu.au

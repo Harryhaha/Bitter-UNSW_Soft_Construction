@@ -1,0 +1,8 @@
+home_longitude: 151.1651
+username: NeriThinker
+password: naughty
+listens: GiannaGirl ChristopherLover40 LesterBadboy Tom16 TimWelsh PrettyMarisa74
+home_suburb: Lindfield West
+home_latitude: -33.8016
+full_name: Neri Marcore
+email: N.Marcore@unsw.edu.au

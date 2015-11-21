@@ -1,0 +1,8 @@
+home_latitude: -33.9897
+listens: GianMarco NorahTiger SeriousJohn37 RebeccaKitten Rick249
+full_name: Ricardo Monasterio
+home_suburb: Macquarie Links
+username: SexyBadboy
+home_longitude: 150.8696
+email: R.Monasterio@unsw.edu.au
+password: silver

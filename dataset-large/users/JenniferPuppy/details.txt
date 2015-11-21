@@ -1,0 +1,8 @@
+password: iloveyou
+username: JenniferPuppy
+home_latitude: -33.9134
+full_name: Jennifer Capriati
+home_longitude: 151.1992
+home_suburb: Zetland
+email: J.Capriati@unsw.edu.au
+listens: YannosPuppy SeriousJuliette LeahTiger CupcakeBernadette77 ChristopherLover40 AwesomeTiger53 HotLover56 JasonNinja973 RogerFederer ChristyStar584

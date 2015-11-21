@@ -1,0 +1,6 @@
+home_suburb: Banksia
+username: JohnThinker
+full_name: John Kerry
+email: J.Kerry@unsw.edu.au
+listens: RobbyTiger60 AaronTiger Hamid90 LanceArmstrong AshleaWoman970 HappyPaulina VickiGal43 SvetlanaCat70 GaryGenius CorinneCat
+password: monster

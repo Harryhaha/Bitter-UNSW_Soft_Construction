@@ -1,0 +1,8 @@
+password: rabbit
+home_latitude: -33.8842
+username: GwynethTiger46
+home_longitude: 151.2188
+full_name: Gwyneth Paltrow
+listens: RobbyTiger60 Tom39 SportyPedro61 JeriGeek987 SadThinker84 Eliza6 MikeWeir
+home_suburb: Rushcutters Bay
+email: G.Paltrow@unsw.edu.au

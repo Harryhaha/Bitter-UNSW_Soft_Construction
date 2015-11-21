@@ -1,0 +1,8 @@
+listens: DonnyGuy TangraBaby82 AwesomeTiger53 RichardBoy Tommy13 MikeWeir
+email: E.Vigouroux@unsw.edu.au
+home_latitude: -33.9058
+password: madison
+home_longitude: 151.1716
+full_name: Eric Vigouroux
+home_suburb: St Peters
+username: EricAnimal

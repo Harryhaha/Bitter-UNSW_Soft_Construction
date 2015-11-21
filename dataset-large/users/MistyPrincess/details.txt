@@ -1,0 +1,8 @@
+home_longitude: 151.0880
+listens: Joseph70 JoshuaBadboy99 PeterNerd KevinGenius DorkyAmber78 CreativeGeek
+home_suburb: North Strathfield
+email: M.D.Clymer@unsw.edu.au
+username: MistyPrincess
+password: rainbow
+home_latitude: -33.8665
+full_name: Misty Dawn Clymer

@@ -1,0 +1,6 @@
+password: beer
+username: PennyBaby
+home_suburb: Marrickville
+listens: LleytonStar500 JaimeGeek11 AmyWoman65 HotPrincess LauraChick SadieWoman17 MarietaChrousala
+email: P.Lancaster@unsw.edu.au
+full_name: Penny Lancaster

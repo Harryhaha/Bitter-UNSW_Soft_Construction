@@ -1,0 +1,7 @@
+password: chelsea
+home_latitude: -33.8357
+listens: DorkyCat84 CarrieAnneMoss MarkMan413 ChristineBaby PrettyLover KevinAnimal72 NikkiTiger261 DougSurfer KristinCat81 LisaLover Eliza6 GregDude
+home_longitude: 151.0565
+full_name: Sergio Garcia
+email: S.Garcia@unsw.edu.au
+username: SergioTiger

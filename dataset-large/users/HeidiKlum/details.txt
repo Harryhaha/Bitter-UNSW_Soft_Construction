@@ -1,0 +1,8 @@
+home_longitude: 151.2222
+listens: BobThinker ErinKitten52 ChristinaGeek PedroBoy87 SillyEdward91 CupcakeFabrice63 AlexandreThinker93 Lesley819 LauraChick
+username: HeidiKlum
+email: H.Klum@unsw.edu.au
+home_suburb: University Of New South Wales
+full_name: Heidi Klum
+password: florida
+home_latitude: -33.9196

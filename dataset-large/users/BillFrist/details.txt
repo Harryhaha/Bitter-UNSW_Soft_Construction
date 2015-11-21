@@ -1,0 +1,8 @@
+full_name: Bill Frist
+home_latitude: -33.8804
+username: BillFrist
+home_suburb: Rushcutters Bay
+email: B.Frist@unsw.edu.au
+listens: KateKitten18 CreativeDominik80 CreativeMadonna GalenDude97 Ken36 SexyTiger43 GloriaThinker DorkyAmber78 AlexisTiger JuanPabloMontoya SillyDerek AnaAngel166 Goran71 HugoBadboy520
+password: jake
+home_longitude: 151.2311

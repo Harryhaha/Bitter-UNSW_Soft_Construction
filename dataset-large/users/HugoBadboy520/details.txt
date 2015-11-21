@@ -1,0 +1,8 @@
+home_suburb: Wolli Creek
+home_latitude: -33.9243
+home_longitude: 151.1475
+email: H.Chavez@unsw.edu.au
+password: 11111
+username: HugoBadboy520
+full_name: Hugo Chavez
+listens: SillyNerd RomanticLaila John291 BillFrist OliviaGenius LeAnnRimes

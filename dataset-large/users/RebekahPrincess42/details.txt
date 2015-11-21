@@ -1,0 +1,8 @@
+full_name: Rebekah Chantay Revels
+listens: AnaAngel166 CarlosNinja StacyPrincess914
+username: RebekahPrincess42
+email: R.C.Revels@unsw.edu.au
+password: 696969
+home_longitude: 151.2549
+home_suburb: Queens Park
+home_latitude: -33.9062

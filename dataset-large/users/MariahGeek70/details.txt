@@ -1,0 +1,6 @@
+password: jake
+username: MariahGeek70
+home_suburb: Fairfield
+email: M.Carey@unsw.edu.au
+full_name: Mariah Carey
+listens: Tom39 CrazyGordon EmmanuelleStar

@@ -1,0 +1,8 @@
+password: ladies
+home_longitude: 151.1295
+email: Madonna@unsw.edu.au
+home_suburb: Five Dock
+full_name: Madonna
+username: CreativeMadonna
+listens: BillFrist DorkyCat84 Vince04
+home_latitude: -33.8584

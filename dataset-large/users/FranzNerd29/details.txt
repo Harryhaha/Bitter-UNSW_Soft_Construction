@@ -1,0 +1,8 @@
+username: FranzNerd29
+home_latitude: -33.9119
+password: hammer
+email: F.Beckenbauer@unsw.edu.au
+home_longitude: 151.1739
+listens: NatashaGal AndyStar96 HappyGeek26 PrettyTatjana75 SarahGeek58 PatrickNinja MarkThinker PrincessStephanie
+full_name: Franz Beckenbauer
+home_suburb: Sydenham

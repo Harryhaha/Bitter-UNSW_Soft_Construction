@@ -1,0 +1,8 @@
+home_suburb: Ben Buckler
+listens: MarcPuppy588 IanGeek049 Alicia96 CupcakeJason HappyNerd08 CarlaLover Tommy13 CarlosNinja EmanuelGinobili CoolPuppy68 HotThinker78 SergioTiger Alyson90
+full_name: Queen Rania
+username: QueenNerd76
+email: Q.Rania@unsw.edu.au
+home_longitude: 151.2938
+home_latitude: -33.8955
+password: girl

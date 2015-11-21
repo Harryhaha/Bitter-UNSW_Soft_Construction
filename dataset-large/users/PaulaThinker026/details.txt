@@ -1,0 +1,8 @@
+full_name: Paula Zahn
+password: raiders
+home_latitude: -33.8771
+email: P.Zahn@unsw.edu.au
+username: PaulaThinker026
+home_suburb: Kemps Creek
+listens: Monica3 DominicBoy ChristinaGeek SadThinker30 JudyVassar DannyNerd SillyPamela50 Cate6 StrongCarson Rick249 LeAnnRimes SarahWynter CharlesThinker
+home_longitude: 150.7913

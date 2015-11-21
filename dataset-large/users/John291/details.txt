@@ -1,0 +1,8 @@
+home_latitude: -33.8227
+full_name: John Leguizamo
+listens: Scott99 LisaCat AndyStar96 EthanLover MarkGuy79 OlesyaBonabarenko HarbhajanSingh Rod408 FunMark41 CrazyTiger MonicaGirl41 HugoBadboy520 GalenDude97
+email: J.Leguizamo@unsw.edu.au
+home_longitude: 151.0856
+home_suburb: Meadowbank
+username: John291
+password: winter

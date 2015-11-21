@@ -1,0 +1,8 @@
+full_name: Sheryl Crow
+password: baseball
+home_latitude: -33.7373
+username: Sheryl657
+email: S.Crow@unsw.edu.au
+listens: MarkGuy79 AndyStar96 SillyMatt71 Zico MichaelNerd31 HappyGeek26 Mika96 SmartTony65 GeorgeTiger77 ConchitaMartinez SadThinker84 SeriousJohn37 Rick249 JaneStar MarkThinker
+home_longitude: 151.1075
+home_suburb: South Turramurra

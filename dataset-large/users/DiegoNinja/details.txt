@@ -1,0 +1,8 @@
+password: donald
+username: DiegoNinja
+home_latitude: -33.7742
+listens: Holly6 Douglas5 CalistaPrincess VanessaStar MonicaGirl41 RogerFederer MiltonLover
+email: D.Colorado@unsw.edu.au
+home_suburb: Macquarie Centre
+home_longitude: 151.1201
+full_name: Diego Colorado

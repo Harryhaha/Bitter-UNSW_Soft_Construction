@@ -1,0 +1,8 @@
+home_longitude: 151.2384
+home_suburb: University Of New South Wales
+full_name: Kelly Clarkson
+password: maxwell
+username: SillyGirl79
+home_latitude: -33.9244
+email: K.Clarkson@unsw.edu.au
+listens: ChristineBaby JuanGuy StanLover34 SmartGal SeriousDude18 BijanThinker117 Tom16 Eliza6

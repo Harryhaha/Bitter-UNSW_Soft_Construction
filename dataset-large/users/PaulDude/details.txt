@@ -1,0 +1,8 @@
+home_suburb: Hurstville Westfield
+email: P.Celluci@unsw.edu.au
+home_latitude: -33.9353
+username: PaulDude
+listens: YannosPuppy SarahAngel28 Douglas5 OxanaAngel010 ElizabethGenius10 ReeseWitherspoon CorinneCat FunnyThinker27 JuanNinja TigerGeek11 SophiaLoren NikkiTiger261 Justin1
+home_longitude: 151.1242
+password: thomas
+full_name: Paul Celluci

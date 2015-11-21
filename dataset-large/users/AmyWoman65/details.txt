@@ -1,0 +1,8 @@
+username: AmyWoman65
+full_name: Amy Brenneman
+listens: NorahTiger PennyBaby JenniePrincess85
+home_suburb: University Of New South Wales
+home_longitude: 151.2315
+email: A.Brenneman@unsw.edu.au
+home_latitude: -33.9101
+password: phantom

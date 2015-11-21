@@ -1,0 +1,8 @@
+email: M.Habib@unsw.edu.au
+home_latitude: -34.0708
+home_longitude: 150.8420
+full_name: Maha Habib
+username: Maha208
+listens: George2 MarkMan413 MichaelNerd31 CameronGeek Rod408 AwesomeTiger53 Rick249
+password: flower
+home_suburb: Ruse

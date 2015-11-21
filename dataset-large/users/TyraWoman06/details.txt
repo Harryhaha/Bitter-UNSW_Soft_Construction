@@ -1,0 +1,8 @@
+home_longitude: 151.1139
+email: T.Banks@unsw.edu.au
+password: chicago
+full_name: Tyra Banks
+home_suburb: Macquarie Centre
+home_latitude: -33.7718
+listens: CarlosNinja JohnDude94 Tex988 WeiPrincess681 MonicaGirl41 AnaAngel166 CindyWoman16
+username: TyraWoman06

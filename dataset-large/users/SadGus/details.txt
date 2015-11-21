@@ -1,0 +1,8 @@
+full_name: Gus Frerotte
+email: G.Frerotte@unsw.edu.au
+home_latitude: -33.8525
+username: SadGus
+password: smokey
+listens: BobThinker CreativeVanessa MarcoThinker49 TangraBaby82 HilaryDuff SillyDerek
+home_longitude: 151.2098
+home_suburb: The Rocks

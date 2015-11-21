@@ -1,0 +1,8 @@
+username: CharlesThinker
+home_longitude: 150.7684
+home_latitude: -34.0925
+listens: RobbyTiger60 IanGeek049 HeatherGal25 AlexandreThinker93 HotPrincess MarietaChrousala PrincessVictoria PaulaThinker026 JeromeStar483 SillyPamela50 Nicole
+home_suburb: Glen Alpine
+email: C.Ingram@unsw.edu.au
+password: qwert
+full_name: Charles Ingram

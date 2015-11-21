@@ -1,0 +1,8 @@
+home_longitude: 151.1341
+full_name: James Franco
+username: SmartJames53
+home_suburb: Rockdale
+home_latitude: -33.9576
+listens: Jean88 GalenDude97 SeriousJohn37 AndyStar96
+password: morgan
+email: J.Franco@unsw.edu.au

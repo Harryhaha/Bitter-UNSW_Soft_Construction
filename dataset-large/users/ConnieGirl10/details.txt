@@ -1,0 +1,7 @@
+home_latitude: -33.9216
+home_longitude: 151.1239
+email: C.Chung@unsw.edu.au
+full_name: Connie Chung
+username: ConnieGirl10
+password: 3333
+home_suburb: Hurstville Westfield

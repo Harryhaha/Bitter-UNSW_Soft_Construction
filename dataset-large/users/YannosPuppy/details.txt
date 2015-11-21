@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+password: maddog
+username: YannosPuppy
+home_longitude: 151.2259
+full_name: Yannos Papantoniou
+home_latitude: -33.9128
+listens: TomHanks Hamid90 Hana10 FunMark41 FidelCastro JaneKitten CrazyTiger CreativeBob21 LeslieTiger WeiPrincess681 HotThinker78 JeriGeek987 Rick249 Ralph80
+email: Y.Papantoniou@unsw.edu.au

@@ -1,0 +1,8 @@
+home_latitude: -33.8599
+listens: PedroBoy87 Julianna9 John291 SexyTiger43 BrainyPrincess79 PaulaThinker026 AwesomeTiger53 CourtneyAngel57
+username: ChristinaGeek
+password: blue
+full_name: Christina Sawaya
+home_suburb: The Rocks
+email: C.Sawaya@unsw.edu.au
+home_longitude: 151.2080

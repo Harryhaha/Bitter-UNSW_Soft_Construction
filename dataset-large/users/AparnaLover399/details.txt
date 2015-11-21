@@ -1,0 +1,8 @@
+full_name: Aparna Pillai
+home_suburb: University Of New South Wales
+username: AparnaLover399
+home_longitude: 151.2274
+email: A.Pillai@unsw.edu.au
+password: travis
+listens: MarcPuppy588 SadGus SzuYuChen PrettyLover StacyPrincess914 FunDavid01 HilaryDuff RonnieGuy LeAnnRimes BertieDude
+home_latitude: -33.9190

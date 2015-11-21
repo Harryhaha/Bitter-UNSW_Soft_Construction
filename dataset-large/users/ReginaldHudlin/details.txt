@@ -1,0 +1,8 @@
+password: carlos
+email: R.Hudlin@unsw.edu.au
+home_longitude: 150.8818
+home_suburb: Heckenberg
+listens: DaisyGirl47 MarcNerd DavidGuy GeorgeStar
+home_latitude: -33.9206
+username: ReginaldHudlin
+full_name: Reginald Hudlin

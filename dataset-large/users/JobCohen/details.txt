@@ -1,0 +1,8 @@
+email: J.Cohen@unsw.edu.au
+home_latitude: -33.8463
+home_suburb: Birchgrove
+full_name: Job Cohen
+home_longitude: 151.1797
+listens: SillyNerd George2 RobertoStar StacyPrincess914 JustineChick420 Jean88 SadThinker84 RobertNinja63 GeorgeStar
+username: JobCohen
+password: 0

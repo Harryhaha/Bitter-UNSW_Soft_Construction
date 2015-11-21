@@ -1,0 +1,8 @@
+email: M.Jackson@unsw.edu.au
+home_latitude: -33.8165
+listens: SillyEdward91 LleytonStar500 SillyMatt71 GenniferFlowers Larenz513 VickiGal43 Tommy13 JuanNinja
+home_suburb: Gore Hill
+password: oliver
+username: MichaelKitten50
+full_name: Michael Jackson
+home_longitude: 151.1798

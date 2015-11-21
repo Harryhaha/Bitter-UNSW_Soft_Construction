@@ -1,0 +1,8 @@
+home_suburb: Darlinghurst
+username: CyndiWoman
+password: prince
+full_name: Cyndi Thompson
+home_latitude: -33.8898
+home_longitude: 151.2246
+listens: AlexDude115 AngelaGeek AlecBaldwin FunWoman KingBoy26 Liza150 TenderChick MarietaChrousala EmmanuelleStar
+email: C.Thompson@unsw.edu.au

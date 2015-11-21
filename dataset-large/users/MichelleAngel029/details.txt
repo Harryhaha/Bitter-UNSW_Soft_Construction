@@ -1,0 +1,8 @@
+full_name: Michelle Yeoh
+home_suburb: Bellevue Hill
+listens: Barry9 HappyNerd08 MarkGuy79 GenniferFlowers SillyEdward91 JulietteBinoche MerylAngel NikkiNerd968 PaulBremer YuriThinker068 Ralph80
+home_longitude: 151.2674
+username: MichelleAngel029
+email: M.Yeoh@unsw.edu.au
+password: cowboy
+home_latitude: -33.8913

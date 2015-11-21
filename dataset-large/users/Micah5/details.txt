@@ -1,0 +1,8 @@
+home_latitude: -33.8883
+home_longitude: 151.2429
+username: Micah5
+password: kevin
+full_name: Micah Knorr
+home_suburb: Woollahra
+listens: Joseph70 TomThinker LeahTiger Hana10 DorkyAmber78 RichardBoy
+email: M.Knorr@unsw.edu.au

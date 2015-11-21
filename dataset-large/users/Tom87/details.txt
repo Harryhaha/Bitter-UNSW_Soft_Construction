@@ -1,0 +1,8 @@
+password: donald
+home_latitude: -33.9454
+full_name: Tom Daschle
+home_suburb: Pagewood
+username: Tom87
+email: T.Daschle@unsw.edu.au
+home_longitude: 151.2217
+listens: Monica3 AlexandreSurfer PaulBremer

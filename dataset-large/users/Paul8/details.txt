@@ -1,0 +1,8 @@
+home_longitude: 151.0964
+home_suburb: Miranda
+home_latitude: -34.0346
+full_name: Paul Bettany
+listens: ChocolateSurfer33
+password: xxxx
+email: P.Bettany@unsw.edu.au
+username: Paul8

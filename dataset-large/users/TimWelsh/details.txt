@@ -1,0 +1,8 @@
+home_suburb: Woollahra
+password: cowboys
+home_latitude: -33.8844
+username: TimWelsh
+email: T.Welsh@unsw.edu.au
+listens: NatashaGal CupcakeBernadette77 DaisyGirl47 AmyLover43 ChristopherLover40 JenniferTiger31 RayBadboy ThomasBjorn DebraGirl JenniferPuppy
+full_name: Tim Welsh
+home_longitude: 151.2451

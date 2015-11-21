@@ -1,0 +1,8 @@
+email: A.Bynes@unsw.edu.au
+home_latitude: -34.0055
+username: AmandaGeek
+home_longitude: 151.0121
+password: asdf
+full_name: Amanda Bynes
+listens: RobinsonAnimal DreamSurfer SexyBadboy RalphCat SadFranck38 JenniferTiger31 MarcoThinker49 TomThinker HalleStar97
+home_suburb: Menai Central

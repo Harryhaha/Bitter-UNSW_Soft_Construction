@@ -1,0 +1,8 @@
+email: M.Sorvino@unsw.edu.au
+password: qazwsx
+home_suburb: Bardwell Valley
+username: AwesomeMira86
+home_longitude: 151.1265
+full_name: Mira Sorvino
+home_latitude: -33.9418
+listens: AaronTiger Rob9 Pete21 Evan166 NorahTiger TigerGeek11 BertieDude

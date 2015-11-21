@@ -1,0 +1,8 @@
+password: arthur
+home_longitude: 151.2638
+full_name: Ian Thorpe
+home_latitude: -33.9022
+home_suburb: Bondi
+listens: NatashaGal QueenNerd76 Julianna9 KevinAnimal72 SeriousJeanne76 RobertTiger StellaWoman GrantGenius
+username: IanGeek049
+email: I.Thorpe@unsw.edu.au

@@ -1,0 +1,8 @@
+home_longitude: 151.2521
+password: blazer
+full_name: Priscilla Presley
+listens: ErinKitten52
+home_latitude: -33.8623
+email: P.Presley@unsw.edu.au
+username: Priscilla81
+home_suburb: Point Piper

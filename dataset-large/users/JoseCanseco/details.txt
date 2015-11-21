@@ -1,0 +1,7 @@
+username: JoseCanseco
+home_longitude: 151.2385
+password: dolphin
+email: J.Canseco@unsw.edu.au
+home_latitude: -33.9640
+listens: MarcPuppy588 AshleaWoman970 Hamid90 HeatherGal25 JaimeGeek11 DesperateCeline NeriThinker JKGenius PatrickNinja WeiPrincess681
+full_name: Jose Canseco

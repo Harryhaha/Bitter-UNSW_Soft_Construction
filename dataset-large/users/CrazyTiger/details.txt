@@ -1,0 +1,8 @@
+password: batman
+home_suburb: Harrington Park
+full_name: Morgan Fairchild
+home_longitude: 150.7439
+email: M.Fairchild@unsw.edu.au
+username: CrazyTiger
+listens: SillyMathias YannosPuppy ChocolateGeorge28 DreamSurfer CupcakeJason ChristineBaby ErinBaby DaveWilliams EmanuelGinobili Ralph80 LuisMan08 RebekahPrincess42
+home_latitude: -34.0253

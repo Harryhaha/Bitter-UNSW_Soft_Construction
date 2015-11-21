@@ -1,0 +1,6 @@
+full_name: Olivia Newton-John
+email: O.N.John@unsw.edu.au
+listens: HugoBadboy520
+username: OliviaGenius
+password: newyork
+home_suburb: University Of New South Wales

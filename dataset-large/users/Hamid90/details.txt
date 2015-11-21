@@ -1,0 +1,8 @@
+listens: YannosPuppy PeterNerd SalmaHayek HappyGeek26 JoseCanseco JulietteBinoche LesterBadboy JohnThinker
+email: H.Karzai@unsw.edu.au
+full_name: Hamid Karzai
+home_longitude: 151.1141
+home_suburb: Ryde
+username: Hamid90
+password: wilson
+home_latitude: -33.8045

@@ -1,0 +1,6 @@
+username: IlanBadboy370
+home_suburb: Campbelltown
+listens: CristianoBoy OscarNinja HappyPaulina MickeyStar AliAnimal SeriousDude18 SophiaLoren
+email: I.Ramon@unsw.edu.au
+password: redskins
+full_name: Ilan Ramon

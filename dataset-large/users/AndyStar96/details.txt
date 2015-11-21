@@ -1,0 +1,8 @@
+password: biteme
+username: AndyStar96
+home_longitude: 151.1308
+home_latitude: -34.0719
+full_name: Andy Garcia
+listens: Eva198 DorkyCat84 ElizabethStar11 John291 MichaelNerd31 KevinAnimal72 SmartJames53 PrincessVictoria KurtLover36 RobertNinja63 Jean88 Sheryl657 FunGeek
+home_suburb: Maianbar
+email: A.Garcia@unsw.edu.au

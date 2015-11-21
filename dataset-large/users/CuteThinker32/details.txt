@@ -1,0 +1,8 @@
+home_longitude: 150.9526
+password: ginger
+home_suburb: Fairfield
+full_name: Leonardo DiCaprio
+home_latitude: -33.8681
+listens: Liza150 AngelinaCat84 CuteAli89 CarrieAnneMoss AliAnimal
+email: L.DiCaprio@unsw.edu.au
+username: CuteThinker32

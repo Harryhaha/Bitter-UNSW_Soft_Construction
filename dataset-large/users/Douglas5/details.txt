@@ -1,0 +1,6 @@
+email: D.Gansler@unsw.edu.au
+password: 1234567
+full_name: Douglas Gansler
+home_suburb: Balgowlah
+listens: DiegoNinja RebeccaKitten VanessaGeek15 FunMark41 PeriGilpin RobertoStar Ken36 LeslieTiger LeonSilver AwesomeTiger53 PaulDude SportyPierce64 CindyWoman16 GeorgeStar
+username: Douglas5

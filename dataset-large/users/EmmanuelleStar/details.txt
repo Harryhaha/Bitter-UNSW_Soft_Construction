@@ -1,0 +1,8 @@
+listens: Rosie4 Eva198 ErinBaby RayBadboy CyndiWoman StrongCarson SportyPedro61
+home_latitude: -33.9490
+email: E.Jagodsinski@unsw.edu.au
+home_suburb: Padstow
+full_name: Emmanuelle Jagodsinski
+password: 4444
+home_longitude: 151.0375
+username: EmmanuelleStar

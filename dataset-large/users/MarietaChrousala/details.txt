@@ -1,0 +1,8 @@
+home_latitude: -33.8958
+listens: CyndiWoman PennyBaby CharlesThinker
+home_suburb: Eveleigh
+username: MarietaChrousala
+email: M.Chrousala@unsw.edu.au
+password: winner
+full_name: Marieta Chrousala
+home_longitude: 151.1978

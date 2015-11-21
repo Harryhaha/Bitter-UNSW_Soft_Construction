@@ -1,0 +1,8 @@
+full_name: Wayne Gretzky
+password: diablo
+email: W.Gretzky@unsw.edu.au
+home_longitude: 151.2365
+listens: Alicia96 SeriousJuliette JoseBoy John291 Evan166 Martina814 TangraBaby82 PrincessVictoria ZoranGeek69 CarmenPrincess FayeLover021
+home_suburb: University Of New South Wales
+home_latitude: -33.9148
+username: DreamThinker30

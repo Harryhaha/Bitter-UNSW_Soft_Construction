@@ -1,0 +1,6 @@
+full_name: Bob Newhart
+password: cocacola
+email: B.Newhart@unsw.edu.au
+home_suburb: Lilyfield
+listens: RobinsonAnimal CarrieAnneMoss PeterNerd KeanuReeves EthanLover HotPrincess StacyPrincess914 CreativeGeek BritneyNerd903 HeidiKlum TigerGeek11 Tom16 HalleStar97 CarmenPrincess
+username: BobThinker

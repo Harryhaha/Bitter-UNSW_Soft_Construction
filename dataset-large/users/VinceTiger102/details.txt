@@ -1,0 +1,8 @@
+full_name: Vince Vaughan
+email: V.Vaughan@unsw.edu.au
+home_suburb: Hillsdale
+username: VinceTiger102
+listens: PattiCat58 Monica3 CrazyGordon RichSurfer56 GenniferFlowers PortiaGirl StacyPrincess914 Anna9 JuanNinja MaryElizabethMastrantonio ConchitaMartinez ThomasBjorn BrainyStar
+home_latitude: -33.9444
+password: green
+home_longitude: 151.2220

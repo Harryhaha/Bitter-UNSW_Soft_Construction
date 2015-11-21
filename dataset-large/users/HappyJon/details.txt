@@ -1,0 +1,8 @@
+home_latitude: -33.8038
+listens: JKGenius KateKitten18 FunnyJean
+username: HappyJon
+full_name: Jon Gruden
+email: J.Gruden@unsw.edu.au
+home_suburb: Chatswood
+password: access14
+home_longitude: 151.1922

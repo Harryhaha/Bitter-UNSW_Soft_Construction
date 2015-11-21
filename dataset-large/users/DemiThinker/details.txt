@@ -1,0 +1,8 @@
+full_name: Demi Moore
+home_suburb: University Of New South Wales
+username: DemiThinker
+home_longitude: 151.2329
+listens: GeorgeTiger77 KateKitten18 PrincessStephanie VickiGal43 KeanuReeves
+password: eric
+email: D.Moore@unsw.edu.au
+home_latitude: -33.9198

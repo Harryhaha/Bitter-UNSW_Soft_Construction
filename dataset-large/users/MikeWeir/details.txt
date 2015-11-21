@@ -1,0 +1,8 @@
+full_name: Mike Weir
+email: M.Weir@unsw.edu.au
+home_suburb: Wollstonecraft
+home_latitude: -33.8302
+home_longitude: 151.1920
+username: MikeWeir
+listens: PaulAnimal PeriGilpin CuteAli89 FranzNerd29 GwynethTiger46 VickiGal43 PatrickNinja Lesley819 EricAnimal
+password: andrea

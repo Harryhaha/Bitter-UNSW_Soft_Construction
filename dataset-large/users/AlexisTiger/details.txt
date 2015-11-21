@@ -1,0 +1,8 @@
+home_longitude: 151.2381
+home_latitude: -33.8973
+username: AlexisTiger
+home_suburb: Bondi Junction
+full_name: Alexis Bledel
+listens: JenniferAngel CupcakeChristian56 DreamKitten JoeGuy BillFrist SportyPierce64
+password: soccer
+email: A.Bledel@unsw.edu.au

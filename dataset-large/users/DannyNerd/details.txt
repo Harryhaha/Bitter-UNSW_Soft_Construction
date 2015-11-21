@@ -1,0 +1,8 @@
+email: D.Morgan@unsw.edu.au
+listens: PaulaThinker026 FayeLover021 JenniferTiger31
+full_name: Danny Morgan
+home_latitude: -33.8822
+username: DannyNerd
+home_longitude: 151.2351
+password: spanky
+home_suburb: Double Bay

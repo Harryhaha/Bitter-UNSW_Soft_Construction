@@ -1,0 +1,8 @@
+home_latitude: -33.7586
+username: AlastairStar
+home_suburb: Brookvale
+listens: MarcPuppy588 KateKitten18 KevinAnimal72 FayeThinker61 SarahGeek58 SillyDerek Justin1
+full_name: Alastair Campbell
+home_longitude: 151.2711
+password: naked
+email: A.Campbell@unsw.edu.au

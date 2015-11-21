@@ -1,0 +1,8 @@
+password: young
+email: C.Wulff@unsw.edu.au
+home_longitude: 151.1954
+home_suburb: Millers Point
+listens: Rob9 ChristinaGeek ChocolateRomario59 Ludivine705 SvetlanaCat70 Tommy13 ChristinaBaby SarahWynter Samantha41 CatherineKitten
+username: CupcakeChristian56
+full_name: Christian Wulff
+home_latitude: -33.8495

@@ -1,0 +1,8 @@
+home_longitude: 151.0934
+username: CoolPuppy68
+password: young
+home_latitude: -33.9496
+listens: SillyEdward91 BridgetLover105 QueenNerd76 LleytonStar500 CreativeVanessa
+email: B.Fraser@unsw.edu.au
+full_name: Brendan Fraser
+home_suburb: Beverly Hills

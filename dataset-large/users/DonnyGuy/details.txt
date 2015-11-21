@@ -1,0 +1,8 @@
+email: D.Osmond@unsw.edu.au
+password: guitar
+home_longitude: 151.1944
+home_suburb: Castle Cove
+home_latitude: -33.7746
+listens: TomThinker Alicia96 StellaBadboy FunnyThinker27 Susie2 RobertNinja63 EricAnimal
+username: DonnyGuy
+full_name: Donny Osmond

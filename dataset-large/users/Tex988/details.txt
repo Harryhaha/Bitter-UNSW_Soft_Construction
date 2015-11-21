@@ -1,0 +1,8 @@
+email: T.Ritter@unsw.edu.au
+home_suburb: Millers Point
+listens: TyraWoman06 RitaTiger CrazyAnimal42 SeriousJuliette SexyBadboy GLPeiris KurtLover36 MonicaGirl41 Rick249
+home_longitude: 151.2120
+home_latitude: -33.8574
+username: Tex988
+full_name: Tex Ritter
+password: chicago

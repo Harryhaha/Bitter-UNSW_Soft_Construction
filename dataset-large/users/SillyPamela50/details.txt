@@ -1,0 +1,8 @@
+home_longitude: 151.2098
+password: maggie
+home_suburb: Rosebery
+home_latitude: -33.9261
+full_name: Pamela Anderson
+listens: RitaTiger JenniferAngel ErinBaby StrongCarson SadThinker84 IbrahimThinker CourtneyAngel57 PaulaThinker026 CharlesThinker
+email: P.Anderson@unsw.edu.au
+username: SillyPamela50

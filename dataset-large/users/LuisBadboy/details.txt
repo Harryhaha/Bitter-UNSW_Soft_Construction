@@ -1,0 +1,8 @@
+home_suburb: Milsons Point
+username: LuisBadboy
+password: 7777
+email: L.Figo@unsw.edu.au
+home_longitude: 151.2158
+listens: DominicBoy HotPrincess HarbhajanSingh CreativeVanessa StrongCarson TenderKatie ChristinaBaby StellaWoman SarahWynter
+home_latitude: -33.8511
+full_name: Luis Figo

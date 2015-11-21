@@ -1,0 +1,8 @@
+full_name: Cindy Taylor
+home_latitude: -33.8709
+username: CindyWoman16
+home_longitude: 151.1779
+email: C.Taylor@unsw.edu.au
+listens: Piotr271 PrettyHermann RebeccaKitten TyraWoman06 GenniferFlowers FunnySandra PaulAnimal JoeGuy HappyPaulina SmartTony65 Tom16 DreamThinker30
+home_suburb: Rozelle
+password: midnight

@@ -1,0 +1,8 @@
+email: Zico@unsw.edu.au
+password: carter
+full_name: Zico
+listens: DreamSurfer WinonaBaby14 RomanticLaila HotPrincess HappyPaulina Anna9 SvetlanaCat70 PrettyLover Lesley819 LauraNerd
+home_longitude: 151.0835
+home_latitude: -33.8494
+username: Zico
+home_suburb: Homebush Bay

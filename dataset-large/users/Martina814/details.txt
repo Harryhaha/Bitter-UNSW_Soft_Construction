@@ -1,0 +1,8 @@
+password: welcome
+full_name: Martina McBride
+email: M.McBride@unsw.edu.au
+home_suburb: Concord West
+listens: DreamThinker30 Eva198 PilarTiger RobDude RichardBoy
+home_latitude: -33.8486
+username: Martina814
+home_longitude: 151.0934

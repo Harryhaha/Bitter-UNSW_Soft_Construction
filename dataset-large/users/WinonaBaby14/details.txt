@@ -1,0 +1,8 @@
+home_longitude: 150.8467
+home_suburb: Edmondson Park
+password: justin
+email: W.Ryder@unsw.edu.au
+home_latitude: -33.9546
+username: WinonaBaby14
+full_name: Winona Ryder
+listens: JamieStar49 AaronTiger HeatherGal25 Hana10 Zico AmyWoman65 PatrickNinja Lesley819

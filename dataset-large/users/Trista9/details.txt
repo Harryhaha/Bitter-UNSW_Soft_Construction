@@ -1,0 +1,8 @@
+home_suburb: Ashcroft
+home_latitude: -33.9260
+email: T.Rehn@unsw.edu.au
+home_longitude: 150.9006
+listens: SillyEdward91 Vince04 DeeceStar
+full_name: Trista Rehn
+password: bailey
+username: Trista9

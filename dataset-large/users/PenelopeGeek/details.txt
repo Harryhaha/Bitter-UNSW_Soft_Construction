@@ -1,0 +1,6 @@
+full_name: Penelope Cruz
+username: PenelopeGeek
+email: P.Cruz@unsw.edu.au
+listens: RobinsonAnimal IlanBadboy370 RomanticGeek59 SpencerDude11 JacquelineTiger46 AnaAngel166 GeorgeStar
+password: merlin
+home_suburb: Sans Souci

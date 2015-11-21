@@ -1,0 +1,8 @@
+email: P.Labelle@unsw.edu.au
+username: PattiCat58
+password: brandy
+full_name: Patti Labelle
+home_longitude: 151.2668
+home_latitude: -33.8866
+listens: TyraWoman06 PilarTiger Hana10 BrainyRatna30 BrainyStar47 StacyPrincess914 Piotr271 VinceTiger102 MarkThinker ChristinaBaby AndreAgassi ChristyStar584
+home_suburb: Bondi

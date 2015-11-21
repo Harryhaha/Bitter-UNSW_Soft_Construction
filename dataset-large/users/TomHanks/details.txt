@@ -1,0 +1,8 @@
+password: rocket
+home_suburb: Dundas
+listens: MeganCat34 RomanticGenius37 DonnyGuy RichardBoy BillFrist ElizabethStar11 Alyson90 BrainyRatna30
+email: T.Hanks@unsw.edu.au
+username: TomHanks
+home_longitude: 151.0428
+full_name: Tom Hanks
+home_latitude: -33.7965

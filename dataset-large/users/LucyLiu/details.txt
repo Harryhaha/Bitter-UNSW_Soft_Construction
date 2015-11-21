@@ -1,0 +1,8 @@
+username: LucyLiu
+home_latitude: -33.6915
+email: L.Liu@unsw.edu.au
+home_longitude: 151.2918
+listens: SteveKarsay JasonNinja973 LleytonStar500 KristinCat81 RobbieBadboy54
+password: college
+full_name: Lucy Liu
+home_suburb: Warriewood Shopping Square

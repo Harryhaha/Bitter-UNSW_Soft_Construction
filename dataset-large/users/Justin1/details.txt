@@ -1,0 +1,8 @@
+home_suburb: Darlington
+username: Justin1
+password: hunting
+listens: RomanticGenius37 BrookeGordon JaimeGeek11 PaulDude DeeceStar
+home_latitude: -33.8815
+full_name: Justin Wilson
+email: J.Wilson@unsw.edu.au
+home_longitude: 151.1814

@@ -1,0 +1,7 @@
+email: E.Beart@unsw.edu.au
+full_name: Emmanuelle Beart
+home_latitude: -33.9201
+password: iwantu
+username: EmmanuelleThinker
+listens: DominicBoy George2 KeanuReeves HappyNerd08 SillyGirl79 LeonSilver
+home_longitude: 151.2305

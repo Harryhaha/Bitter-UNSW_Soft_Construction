@@ -1,0 +1,8 @@
+home_latitude: -34.0165
+username: DanDude
+listens: SeriousJuliette SexyBadboy DonnyGuy FunKarl CreativeVanessa CreativeBob21 DeeceStar Cate6 CarlosNinja JeromeStar483 AndreAgassi KatieNerd
+home_suburb: Sylvania Waters
+email: D.Wheldon@unsw.edu.au
+password: lauren
+home_longitude: 151.1196
+full_name: Dan Wheldon

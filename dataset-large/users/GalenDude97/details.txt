@@ -1,0 +1,6 @@
+full_name: Galen Rowell
+listens: CarlaLover John291 FunMatt87 BridgetLover105 CreativeBob21 SmartJames53 BillFrist Tommy13 EmilyGeek40 ChristinaBaby SarahWynter Nicole
+username: GalenDude97
+password: beer
+home_suburb: Eastlakes
+email: G.Rowell@unsw.edu.au

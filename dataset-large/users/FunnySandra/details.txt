@@ -1,0 +1,8 @@
+home_suburb: Central Macdonald
+username: FunnySandra
+home_longitude: 150.9844
+full_name: Sandra Bullock
+password: welcome
+listens: Joseph70 SillyMathias RobinsonAnimal AidanGuy15 RomanticLaila ToddBadboy DougSurfer NorahTiger HilaryDuff JeriGeek987 Samantha41
+email: S.Bullock@unsw.edu.au
+home_latitude: -33.3406

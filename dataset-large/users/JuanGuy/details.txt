@@ -1,0 +1,8 @@
+username: JuanGuy
+home_latitude: -33.8785
+home_longitude: 151.2390
+home_suburb: Edgecliff
+listens: SportyFrank02 CarlaLover KevinAnimal72 BrainyStar47 Jen4 SillyGirl79 Tom39 SophiaLoren DreamKitten
+email: J.C.Ferrero@unsw.edu.au
+password: lover
+full_name: Juan Carlos Ferrero

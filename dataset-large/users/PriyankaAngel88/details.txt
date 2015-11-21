@@ -1,0 +1,6 @@
+full_name: Priyanka Chopra
+listens: AlexDude115 PeterNerd BrainyRatna30 SportyPierce64 KevinAnimal72 CreativeBob21 CalistaPrincess FunDavid01 SpencerDude11 FunKarl ConchitaMartinez SadThinker84 RobbieBadboy54
+home_suburb: Mount Lewis
+username: PriyankaAngel88
+email: P.Chopra@unsw.edu.au
+password: sticky

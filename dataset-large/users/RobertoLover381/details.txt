@@ -1,0 +1,8 @@
+home_latitude: -34.0276
+listens: KeiraStar56 PrettyHermann JenniferTiger31 Evan166 RichardBoy
+password: raiders
+home_suburb: Woronora Heights
+full_name: Roberto Cavalli
+email: R.Cavalli@unsw.edu.au
+home_longitude: 151.0331
+username: RobertoLover381

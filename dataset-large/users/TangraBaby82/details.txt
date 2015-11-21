@@ -1,0 +1,8 @@
+home_latitude: -33.9155
+email: T.Riggle@unsw.edu.au
+password: ferrari
+listens: SadGus IanGeek049 CrazyLaura SeriousJeanne76 KurtLover36 TigerGeek11 LuisMan08 EricAnimal
+home_suburb: Clovelly West
+username: TangraBaby82
+full_name: Tangra Riggle
+home_longitude: 151.2549

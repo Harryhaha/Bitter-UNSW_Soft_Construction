@@ -1,0 +1,8 @@
+listens: ChristianLongo DanDude HeatherGal25 AidanGuy15 JenniferPuppy RobertoStar BrookeGordon SeriousJeanne76 Tex988 SillyDerek
+home_longitude: 151.0795
+email: J.Lewis@unsw.edu.au
+home_latitude: -33.9774
+password: 8675309
+home_suburb: Mortdale
+full_name: Juliette Lewis
+username: SeriousJuliette

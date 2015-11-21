@@ -1,0 +1,8 @@
+home_suburb: Kingsford
+full_name: Peri Gilpin
+password: samantha
+email: P.Gilpin@unsw.edu.au
+home_latitude: -33.9256
+home_longitude: 151.2301
+username: PeriGilpin
+listens: RobinsonAnimal AngelaGeek Douglas5 DaveWilliams MichelleHofland Jen4 MarcoThinker49 FunnyThinker27 JeriGeek987 Alyson90

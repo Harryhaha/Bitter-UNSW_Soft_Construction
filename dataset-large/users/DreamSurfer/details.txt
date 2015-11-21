@@ -1,0 +1,8 @@
+listens: Scott99 FayeLover021 AwesomeMira86 Zico NorahTiger CrazyTiger CreativeGeek Ludivine705 HotThinker78 CarrieAnneMoss YuriThinker068 RobertTiger Samantha41 AntonioMan38
+home_longitude: 150.9078
+home_latitude: -33.7680
+username: DreamSurfer
+email: G.Trudeau@unsw.edu.au
+home_suburb: Blacktown
+password: coffee
+full_name: Garry Trudeau

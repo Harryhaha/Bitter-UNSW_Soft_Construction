@@ -1,0 +1,7 @@
+password: jason
+email: R.Niedermayer@unsw.edu.au
+home_longitude: 151.1219
+listens: DesperateCeline FranzBadboy
+full_name: Rob Niedermayer
+username: RobDude
+home_latitude: -33.9357

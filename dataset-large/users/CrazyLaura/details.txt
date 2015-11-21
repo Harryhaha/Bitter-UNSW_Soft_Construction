@@ -1,0 +1,8 @@
+home_longitude: 151.2677
+full_name: Laura Ziskin
+password: pepper
+username: CrazyLaura
+home_latitude: -33.8002
+email: L.Ziskin@unsw.edu.au
+home_suburb: Balgowlah
+listens: TangraBaby82 LauraChick CourtneyAngel57

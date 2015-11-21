@@ -1,0 +1,8 @@
+home_latitude: -33.9166
+listens: Micah5 AshleaWoman970 QueenNerd76 PilarTiger CameronGeek HappyGeek26 FunnySandra LeonSilver MistyPrincess ChristyStar584 RobbieBadboy54
+password: saturn
+home_longitude: 151.2357
+email: J.Biden@unsw.edu.au
+username: Joseph70
+full_name: Joseph Biden
+home_suburb: University Of New South Wales

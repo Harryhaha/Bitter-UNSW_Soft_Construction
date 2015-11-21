@@ -1,0 +1,8 @@
+email: K.Wagner@unsw.edu.au
+home_latitude: -33.9387
+home_suburb: Maroubra
+home_longitude: 151.2453
+password: junior
+listens: HotPrincess
+username: KatieNerd
+full_name: Katie Wagner

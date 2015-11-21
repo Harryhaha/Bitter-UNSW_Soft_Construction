@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+full_name: Vivica Fox
+email: V.Fox@unsw.edu.au
+password: great
+home_longitude: 151.2292
+listens: Jean88 RomanticGeek59 Vince04 FunKarl
+username: VivicaKitten49
+home_latitude: -33.9152

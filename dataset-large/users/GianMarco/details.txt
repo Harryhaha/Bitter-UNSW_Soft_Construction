@@ -1,0 +1,8 @@
+home_longitude: 151.2393
+home_latitude: -33.9043
+listens: SexyBadboy ElizabethCat806 SillyEdward91 KevinAnimal72 DougSurfer Tom16 ConchitaMartinez JasonNinja973 PolonaNerd06
+full_name: Gian Marco
+password: austin
+email: G.Marco@unsw.edu.au
+home_suburb: Centennial Park
+username: GianMarco

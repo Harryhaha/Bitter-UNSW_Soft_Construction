@@ -1,0 +1,8 @@
+username: GiannaGirl
+home_longitude: 150.7186
+listens: NeriThinker JaneKitten PortiaGirl BradSurfer KurtLover36 Rick249 LauraNerd
+full_name: Gianna Angelopoulos-Daskalaki
+home_latitude: -33.7871
+home_suburb: Orchard Hills
+password: brandon
+email: G.A.Daskalaki@unsw.edu.au

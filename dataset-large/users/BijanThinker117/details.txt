@@ -1,0 +1,8 @@
+email: B.Darvish@unsw.edu.au
+home_suburb: Phillip Bay
+listens: CuteAli89 MickBadboy95 Douglas5 Ralph80 JuanPabloMontoya
+full_name: Bijan Darvish
+home_latitude: -33.9784
+username: BijanThinker117
+home_longitude: 151.2413
+password: power

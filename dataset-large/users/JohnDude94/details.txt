@@ -1,0 +1,8 @@
+password: internet
+full_name: John Lisowski
+home_suburb: Glebe
+email: J.Lisowski@unsw.edu.au
+home_longitude: 151.1883
+listens: BrookeGordon CuteAndrea28 Lesley819 TyraWoman06 AnaAngel166
+username: JohnDude94
+home_latitude: -33.8848

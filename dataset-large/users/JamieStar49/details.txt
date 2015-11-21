@@ -1,0 +1,8 @@
+home_suburb: Chester Hill
+password: austin
+username: JamieStar49
+email: J.King@unsw.edu.au
+full_name: Jamie King
+home_latitude: -33.8898
+listens: Tom16 LuisBadboy StellaBadboy WinonaBaby14
+home_longitude: 151.0006

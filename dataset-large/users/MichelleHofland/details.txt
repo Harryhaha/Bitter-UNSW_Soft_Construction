@@ -1,0 +1,8 @@
+home_suburb: Clontarf
+listens: CupcakeMiguel DaveWilliams PeriGilpin RichardBoy SexyTiger43 Susie2 SadThinker30
+password: beer
+home_longitude: 151.2594
+username: MichelleHofland
+email: M.Hofland@unsw.edu.au
+home_latitude: -33.8154
+full_name: Michelle Hofland

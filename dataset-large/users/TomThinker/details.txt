@@ -1,0 +1,8 @@
+full_name: Tom Ridge
+email: T.Ridge@unsw.edu.au
+username: TomThinker
+home_suburb: St Andrews
+home_latitude: -34.0192
+listens: Micah5 PeterNerd RomanticGeek59 Tom16 DonnyGuy AmandaGeek CourtneyAngel57 Nicole
+password: letmein
+home_longitude: 150.8267

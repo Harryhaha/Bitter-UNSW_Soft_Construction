@@ -1,0 +1,8 @@
+password: gandalf
+email: E.Mendes@unsw.edu.au
+listens: KevinGenius AlexandreThinker93 Martina814 Tom39 PatrickNinja Tommy13 Rick249 FunGeek EmmanuelleStar
+home_latitude: -33.8557
+home_suburb: Chiswick
+home_longitude: 151.1296
+username: Eva198
+full_name: Eva Mendes

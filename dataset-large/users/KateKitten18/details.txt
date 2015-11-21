@@ -1,0 +1,8 @@
+home_suburb: Parramatta
+listens: SexyLaura13 CupcakeFabrice63 Lesley819 CupcakeChristian56 Mary84 CreativeVanessa HappyJon Piotr271 DemiThinker BillFrist AnaAngel166 WeiPrincess681 RobertNinja63 OscarNinja AlastairStar
+email: K.Hudson@unsw.edu.au
+full_name: Kate Hudson
+username: KateKitten18
+home_latitude: -33.8122
+password: golfer
+home_longitude: 151.0016

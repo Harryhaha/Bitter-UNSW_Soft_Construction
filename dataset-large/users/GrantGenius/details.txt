@@ -1,0 +1,7 @@
+full_name: Grant Hackett
+home_latitude: -33.9091
+password: redskins
+home_longitude: 151.2362
+email: G.Hackett@unsw.edu.au
+listens: CuteAli89 PilarTiger
+username: GrantGenius

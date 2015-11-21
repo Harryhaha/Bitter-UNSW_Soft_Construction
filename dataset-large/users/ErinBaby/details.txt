@@ -1,0 +1,8 @@
+home_latitude: -34.0056
+email: E.Brockovich@unsw.edu.au
+password: japan
+username: ErinBaby
+listens: FayeLover021 SexyBadboy RichSurfer56 Markus08 BrainyPrincess79 Evan166 PaulAnimal JulietteBinoche EricAnimal SillyPamela50 EmmanuelleStar
+home_suburb: Sandringham
+full_name: Erin Brockovich
+home_longitude: 151.1380

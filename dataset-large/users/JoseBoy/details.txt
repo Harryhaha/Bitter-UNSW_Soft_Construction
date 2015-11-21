@@ -1,0 +1,8 @@
+username: JoseBoy
+home_latitude: -33.9200
+email: J.M.Aznar@unsw.edu.au
+password: aaaaaa
+full_name: Jose Maria Aznar
+listens: PilarTiger LeahTiger DianaKrall MarkThinker ChocolateSurfer33 JuanPabloMontoya ElizabethCat806 Samantha41 MarkMan413
+home_longitude: 151.2565
+home_suburb: Clovelly

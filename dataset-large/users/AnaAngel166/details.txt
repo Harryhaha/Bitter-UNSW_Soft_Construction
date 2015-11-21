@@ -1,0 +1,8 @@
+home_suburb: Penshurst
+password: jack
+listens: TyraWoman06 KateKitten18 LuisBadboy PedroBoy87 FunMatt87 SteveKarsay PenelopeGeek JohnDude94 BillFrist JuanPabloMontoya StellaWoman LauraChick RebekahPrincess42
+home_latitude: -33.9688
+username: AnaAngel166
+full_name: Ana Claudia Talancon
+email: A.C.Talancon@unsw.edu.au
+home_longitude: 151.0866

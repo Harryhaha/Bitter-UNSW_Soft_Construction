@@ -1,0 +1,8 @@
+home_longitude: 150.9484
+email: M.Tomei@unsw.edu.au
+home_suburb: Lansvale
+listens: NeriThinker JoshuaBadboy99 CameronGeek DreamKitten BradSurfer LauraChick
+full_name: Marisa Tomei
+home_latitude: -33.8880
+username: PrettyMarisa74
+password: 4444

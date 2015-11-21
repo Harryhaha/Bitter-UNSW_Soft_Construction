@@ -1,0 +1,8 @@
+username: Nicole
+full_name: Nicole
+home_longitude: 151.1415
+home_latitude: -33.8306
+password: arsenal
+listens: Rosie4 SportyFrank02 TomThinker GalenDude97 Pete21 SvetlanaCat70 SillyDerek CharlesThinker
+home_suburb: Huntleys Cove
+email: Nicole@unsw.edu.au

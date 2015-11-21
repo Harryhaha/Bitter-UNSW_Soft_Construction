@@ -1,0 +1,7 @@
+full_name: Mahima Chaudhari
+username: TenderChick
+password: compaq
+listens: FrancisDude19 DianaKrall NerdyMichael52 CyndiWoman PrincessVictoria Liza150 Ludivine705 HeatherNerd
+home_longitude: 151.2224
+home_latitude: -33.9166
+email: M.Chaudhari@unsw.edu.au

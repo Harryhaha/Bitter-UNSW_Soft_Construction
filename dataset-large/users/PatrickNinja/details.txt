@@ -1,0 +1,8 @@
+username: PatrickNinja
+full_name: Patrick Bourrat
+home_longitude: 151.2265
+home_latitude: -33.9188
+email: P.Bourrat@unsw.edu.au
+listens: RobbyTiger60 Eva198 JenniferAngel CristianoBoy FranzNerd29 KingBoy26 Ken36 CreativeBob21 JoseCanseco CuteAndrea28 Tom16 MikeWeir
+password: silver
+home_suburb: Kingsford

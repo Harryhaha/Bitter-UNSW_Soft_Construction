@@ -1,0 +1,8 @@
+username: MaryPrincess691
+password: donald
+email: M.Bono@unsw.edu.au
+home_longitude: 150.9539
+full_name: Mary Bono
+home_latitude: -33.9321
+home_suburb: Moorebank
+listens: RobbyTiger60 JoshuaBadboy99 JacquesRogge JenniferCat48 DavidGuy CalistaPrincess MichaelNerd31 JulieThinker78 RomanticGenius37 SadThinker84 RobertNinja63 JennaElfman

@@ -1,0 +1,8 @@
+home_latitude: -33.9110
+full_name: Mary Lou Retton
+password: money
+listens: DominicBoy Vince04 LanceArmstrong CreativeGeek AidanGuy15 SillyEdward91 CreativeVanessa StacyPrincess914 FayeThinker61 Keith056 GeorgeTiger77 ThomasBjorn
+home_longitude: 151.2537
+email: M.L.Retton@unsw.edu.au
+home_suburb: Queens Park
+username: GeekMary36

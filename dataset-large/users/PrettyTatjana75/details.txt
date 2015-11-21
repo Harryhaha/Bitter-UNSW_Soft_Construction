@@ -1,0 +1,6 @@
+home_suburb: The Rocks
+username: PrettyTatjana75
+password: ginger
+full_name: Tatjana Gsell
+listens: Nate009 Alicia96 LeslieTiger CrazyGeek31 BrookeGordon MickBadboy95 GianMarco
+email: T.Gsell@unsw.edu.au

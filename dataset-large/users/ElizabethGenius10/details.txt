@@ -1,0 +1,8 @@
+full_name: Elizabeth Smart
+listens: LleytonStar500 PrettyLover GenniferFlowers HarbhajanSingh PaulDude JudyVassar
+password: whatever
+home_latitude: -33.9145
+username: ElizabethGenius10
+home_suburb: University Of New South Wales
+home_longitude: 151.2335
+email: E.Smart@unsw.edu.au

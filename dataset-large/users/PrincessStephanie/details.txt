@@ -1,0 +1,8 @@
+home_latitude: -33.7924
+password: player
+home_longitude: 151.2019
+listens: EthanLover SillyEdward91 PolonaNerd06 LuisBadboy DemiThinker
+username: PrincessStephanie
+home_suburb: Castle Cove
+email: P.Stephanie@unsw.edu.au
+full_name: Princess Stephanie

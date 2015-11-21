@@ -1,0 +1,8 @@
+password: football
+home_latitude: -33.9643
+home_suburb: Peakhurst Heights
+home_longitude: 151.0591
+email: R.Romano@unsw.edu.au
+listens: Jean88 JulieThinker78 MickeyStar SexyBadboy AngelaGeek
+full_name: Ray Romano
+username: RayBadboy

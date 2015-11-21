@@ -1,0 +1,7 @@
+username: LanaClarkson
+home_longitude: 151.2719
+email: L.Clarkson@unsw.edu.au
+password: viking
+home_latitude: -33.8726
+full_name: Lana Clarkson
+listens: SillyMatt71 SportyPierce64

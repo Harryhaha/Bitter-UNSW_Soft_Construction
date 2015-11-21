@@ -1,0 +1,8 @@
+password: bill
+email: R.Zoellick@unsw.edu.au
+username: CrazyAnimal42
+listens: SillyNaomi29 JenniferCat48 PolonaNerd06 CupcakeJason Tex988
+home_latitude: -33.9387
+home_longitude: 151.1390
+full_name: Robert Zoellick
+home_suburb: Turrella

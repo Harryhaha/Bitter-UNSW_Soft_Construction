@@ -1,0 +1,8 @@
+home_longitude: 151.1331
+full_name: Aaron Eckhart
+email: A.Eckhart@unsw.edu.au
+home_suburb: Abbotsford
+password: stars
+username: AaronTiger
+home_latitude: -33.8482
+listens: JoshuaBadboy99 WinonaBaby14 AlexandreThinker93 MarkGuy79 AwesomeMira86 KingBoy26 FunDavid01 Keith056 Maha208 JohnThinker SadTiger79

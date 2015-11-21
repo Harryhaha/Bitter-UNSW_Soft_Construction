@@ -1,0 +1,8 @@
+full_name: Daisy Fuentes
+listens: AngelinaCat84 TimWelsh Vince04 RobDude
+home_suburb: Penshurst
+home_latitude: -33.9596
+home_longitude: 151.0838
+password: harley
+email: D.Fuentes@unsw.edu.au
+username: DaisyGirl47

@@ -1,0 +1,8 @@
+email: M.Beyer@unsw.edu.au
+home_suburb: Ingleside
+home_latitude: -33.6774
+username: Markus08
+password: iloveyou
+listens: SillyNaomi29 CuteTiger09 KevinAnimal72 OxanaAngel010 GregDude
+home_longitude: 151.2695
+full_name: Markus Beyer

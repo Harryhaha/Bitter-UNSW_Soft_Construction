@@ -1,0 +1,8 @@
+home_suburb: Kirribilli
+username: Monica3
+password: cream
+listens: KeanuReeves LeslieTiger Raul117 RonnieGuy VinceTiger102 CupcakeFabrice63 Tom87
+email: M.Lewinsky@unsw.edu.au
+home_latitude: -33.8406
+full_name: Monica Lewinsky
+home_longitude: 151.2084

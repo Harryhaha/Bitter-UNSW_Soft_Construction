@@ -1,0 +1,8 @@
+home_latitude: -33.8913
+home_longitude: 151.2012
+username: ElizabethCat806
+password: iceman
+listens: CrazyGeek31 KingBoy26 LauraNerd JoseBoy JaimeGeek11
+full_name: Elizabeth Hurley
+home_suburb: Chippendale
+email: E.Hurley@unsw.edu.au

@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+listens: KeiraStar56 DorkyCat84 CarrieAnneMoss AlecBaldwin HappyPaulina HeidiKlum MarkThinker Lesley819 ReginaldHudlin
+username: DavidGuy
+full_name: David Nalbandian
+home_latitude: -33.9175
+email: D.Nalbandian@unsw.edu.au
+password: master
+home_longitude: 151.2374

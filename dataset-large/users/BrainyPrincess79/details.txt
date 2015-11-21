@@ -1,0 +1,8 @@
+home_latitude: -33.9976
+full_name: Holly Hunter
+username: BrainyPrincess79
+home_longitude: 151.1351
+password: redskins
+listens: MarcPuppy588 JuanGuy MichaelNerd31 JKGenius AaronNinja DemiThinker Lesley819
+home_suburb: Sandringham
+email: H.Hunter@unsw.edu.au

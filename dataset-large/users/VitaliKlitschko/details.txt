@@ -1,0 +1,8 @@
+home_longitude: 151.2270
+listens: CristianoBoy GalenDude97 SmartGal SillyNaomi29 CyndiWoman SophiaLoren PaulBremer
+email: V.Klitschko@unsw.edu.au
+username: VitaliKlitschko
+password: hardcore
+home_suburb: University Of New South Wales
+home_latitude: -33.9253
+full_name: Vitali Klitschko

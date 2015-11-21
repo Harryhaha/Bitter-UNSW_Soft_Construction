@@ -1,0 +1,8 @@
+full_name: JK Rowling
+password: bailey
+home_latitude: -33.9233
+home_longitude: 151.2389
+email: JK Rowling@unsw.edu.au
+listens: DominicBoy LisaCat BrainyPrincess79 AlecBaldwin JenniferPuppy Anna9 SexyTiger43 HappyJon SpencerDude11 HappyPaulina DorkyCat84
+home_suburb: University Of New South Wales
+username: JKGenius

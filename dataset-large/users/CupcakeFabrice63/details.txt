@@ -1,0 +1,8 @@
+password: 11111
+home_suburb: Longueville
+home_latitude: -33.8364
+home_longitude: 151.1632
+listens: Monica3 KateKitten18 George2 SalmaHayek BradSurfer CreativeDominik80 KurtLover36 HeidiKlum ThomasBjorn HalleStar97
+email: F.Santoro@unsw.edu.au
+username: CupcakeFabrice63
+full_name: Fabrice Santoro

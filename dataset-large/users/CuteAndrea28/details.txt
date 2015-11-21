@@ -1,0 +1,8 @@
+home_latitude: -33.7544
+email: A.Bocelli@unsw.edu.au
+username: CuteAndrea28
+listens: LeonSilver CarrieAnneMoss LuisBadboy EthanLover RobertoStar Keith056 StacyPrincess914 JohnDude94 ZoranGeek69 PatrickNinja
+home_longitude: 151.2705
+home_suburb: Narraweena
+full_name: Andrea Bocelli
+password: jackson

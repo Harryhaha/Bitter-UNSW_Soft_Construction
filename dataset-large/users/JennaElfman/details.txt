@@ -1,0 +1,8 @@
+password: packers
+email: J.Elfman@unsw.edu.au
+username: JennaElfman
+full_name: Jenna Elfman
+listens: NatashaGal FrancisDude19 Rob9 MaryPrincess691 GaryGenius CuteTiger09
+home_suburb: Eveleigh
+home_latitude: -33.8999
+home_longitude: 151.1946

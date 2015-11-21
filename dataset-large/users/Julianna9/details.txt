@@ -1,0 +1,6 @@
+password: marine
+email: J.Margulies@unsw.edu.au
+home_suburb: University Of New South Wales
+listens: IanGeek049 ChristinaGeek FidelCastro SmartGal SillyNaomi29 Larenz513 SportyPedro61 ConchitaMartinez
+username: Julianna9
+full_name: Julianna Margulies

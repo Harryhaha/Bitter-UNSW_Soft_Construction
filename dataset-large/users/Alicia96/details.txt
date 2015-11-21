@@ -1,0 +1,8 @@
+password: blazer
+home_latitude: -33.9139
+email: A.Keys@unsw.edu.au
+username: Alicia96
+home_suburb: Coogee
+listens: Scott99 RitaTiger QueenNerd76 SalmaHayek DonnyGuy RobertoStar Rod408 PrettyTatjana75 MickeyStar JustineChick420 StacyPrincess914 JaneStar RobbieBadboy54
+full_name: Alicia Keys
+home_longitude: 151.2616

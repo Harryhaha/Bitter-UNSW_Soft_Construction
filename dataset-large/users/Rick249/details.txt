@@ -1,0 +1,8 @@
+email: R.Perry@unsw.edu.au
+home_suburb: Cronulla
+password: wilson
+listens: Eva198 GiannaGirl SexyBadboy HappyHayden97 RomanticLaila SillyNaomi29 FunMark41 CrazyLaura PaulaThinker026 KristinCat81 Tex988 RomanticGeek59 Maha208 CindyWoman16
+full_name: Rick Perry
+username: Rick249
+home_longitude: 151.1586
+home_latitude: -34.0514

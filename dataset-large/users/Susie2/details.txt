@@ -1,0 +1,8 @@
+username: Susie2
+home_longitude: 151.2336
+home_suburb: University Of New South Wales
+email: S.Castillo@unsw.edu.au
+home_latitude: -33.9181
+password: qwerty
+full_name: Susie Castillo
+listens: AlexDude115 TenderKatie SzuYuChen ElizabethGenius10 MichelleHofland HappyPaulina Jean88 SadThinker84 Goran71

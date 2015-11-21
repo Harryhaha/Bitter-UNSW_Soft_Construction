@@ -1,0 +1,8 @@
+home_longitude: 151.2388
+password: 777777
+username: FranzBadboy
+full_name: Franz Fischler
+email: F.Fischler@unsw.edu.au
+home_latitude: -33.9036
+home_suburb: Centennial Park
+listens: CupcakeJason RobDude

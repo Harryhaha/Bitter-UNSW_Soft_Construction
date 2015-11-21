@@ -1,0 +1,8 @@
+home_suburb: Wolli Creek
+listens: AlexDude115 SexyLaura13 QueenNerd76 AlexandreThinker93 JudyVassar GenoSurfer52 CrazyTiger DominicBoy MarkThinker RogerFederer AndreAgassi LauraNerd
+password: music
+home_latitude: -33.9231
+full_name: Emanuel Ginobili
+username: EmanuelGinobili
+home_longitude: 151.1571
+email: E.Ginobili@unsw.edu.au

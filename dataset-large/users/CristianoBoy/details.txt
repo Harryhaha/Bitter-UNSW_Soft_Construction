@@ -1,0 +1,8 @@
+home_longitude: 151.1618
+home_suburb: Chatswood West
+home_latitude: -33.7933
+email: C..Matta@unsw.edu.au
+password: chelsea
+full_name: Cristiano da Matta
+listens: VitaliKlitschko LanaClarkson PeterNerd IlanBadboy370 RalphCat HappyHayden97 John291 HappyPaulina RayBadboy Larenz513 PatrickNinja LuisMan08
+username: CristianoBoy

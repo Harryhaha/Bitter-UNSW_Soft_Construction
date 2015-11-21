@@ -1,0 +1,8 @@
+listens: DreamSurfer AngelaGeek AngelinaCat84 CupcakeChristian56 Barbara4 FunnySandra SillyRachel AndreAgassi
+password: beavis
+full_name: Samantha Daniels
+username: Samantha41
+home_latitude: -33.8815
+home_suburb: Haymarket
+email: S.Daniels@unsw.edu.au
+home_longitude: 151.2002

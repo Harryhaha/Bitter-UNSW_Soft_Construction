@@ -1,0 +1,8 @@
+username: LesterBadboy
+email: L.Holt@unsw.edu.au
+password: stars
+home_latitude: -33.9219
+full_name: Lester Holt
+home_longitude: 151.2230
+home_suburb: Eastlakes
+listens: NeriThinker Hamid90 ErinBaby JulietteBinoche SvetlanaCat70 WeiPrincess681 PaulBremer

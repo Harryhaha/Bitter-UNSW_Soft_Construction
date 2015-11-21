@@ -1,0 +1,6 @@
+full_name: Paul Byrd
+username: PaulAnimal
+listens: ChocolateSurfer33 DominicBoy George2 ErinBaby MarcoThinker49 EmanuelGinobili ZoranGeek69 FunKarl CorinneCat CindyWoman16 SadThinker30 MikeWeir
+email: P.Byrd@unsw.edu.au
+home_suburb: Centennial Park
+password: test

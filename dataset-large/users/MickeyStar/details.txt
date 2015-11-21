@@ -1,0 +1,6 @@
+username: MickeyStar
+full_name: Mickey Sherman
+password: edward
+home_suburb: University Of New South Wales
+email: M.Sherman@unsw.edu.au
+listens: Alicia96 IlanBadboy370 MarcNerd JoseCanseco TangraBaby82 AaronNinja LuisMan08 Barry9

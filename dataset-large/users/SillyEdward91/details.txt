@@ -1,0 +1,8 @@
+home_longitude: 150.7898
+password: monkey
+full_name: Edward Lohn
+email: E.Lohn@unsw.edu.au
+home_suburb: Berkshire Park
+home_latitude: -33.6655
+username: SillyEdward91
+listens: RebeccaKitten CoolPuppy68 CalistaPrincess GeekMary36 SmartTony65 HeidiKlum GaryGenius HotThinker78 GianMarco

@@ -1,0 +1,8 @@
+full_name: Sarah Jessica Parker
+username: SarahAngel28
+home_latitude: -33.8327
+email: S.J.Parker@unsw.edu.au
+listens: SillyMathias JoshuaBadboy99 CarlosNinja JenniferAngel PaulDude SarahWynter
+home_longitude: 151.2186
+password: mother
+home_suburb: Neutral Bay

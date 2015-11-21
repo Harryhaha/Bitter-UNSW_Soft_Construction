@@ -1,0 +1,7 @@
+username: ChristopherLover40
+home_longitude: 151.2608
+home_latitude: -33.9148
+password: juice
+listens: SexyLaura13 AshleaWoman970 CarrieAnneMoss MarkGuy79 CreativeVanessa JoseCanseco JeromeStar483 TimWelsh
+email: C.Whittle@unsw.edu.au
+full_name: Christopher Whittle

@@ -1,0 +1,8 @@
+username: SadThinker30
+home_latitude: -33.9789
+full_name: Gloria Trevi
+password: doctor
+email: G.Trevi@unsw.edu.au
+listens: Erika3 LisaCat MichelleHofland PaulAnimal PaulaThinker026 SillyRachel Goran71 FunGeek OprahGenius33
+home_suburb: Carss Park
+home_longitude: 151.1114

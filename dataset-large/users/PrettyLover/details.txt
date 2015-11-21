@@ -1,0 +1,8 @@
+username: PrettyLover
+full_name: Tammy Lynn Michaels
+listens: SalmaHayek JaimeGeek11 LeslieTiger ElizabethGenius10 RobertoStar SadFranck38 Evan166 SeriousDude18 Zico AparnaLover399 SergioTiger
+email: T.L.Michaels@unsw.edu.au
+home_longitude: 151.2291
+home_suburb: Rushcutters Bay
+home_latitude: -33.8823
+password: beer

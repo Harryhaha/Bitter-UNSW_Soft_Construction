@@ -1,0 +1,8 @@
+email: A.A.K.Madani@unsw.edu.au
+home_suburb: Concord
+username: CuteAli89
+home_longitude: 151.0989
+full_name: Ali Adbul Karim Madani
+listens: ChristineBaby RobertoLover381 JulietteBinoche CuteThinker32 GrantGenius MikeWeir
+home_latitude: -33.8534
+password: gordon

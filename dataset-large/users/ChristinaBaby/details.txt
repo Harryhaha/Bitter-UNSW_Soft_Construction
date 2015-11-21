@@ -1,0 +1,8 @@
+full_name: Christina Aguilera
+password: stars
+home_longitude: 151.2325
+home_suburb: Centennial Park
+listens: DougSurfer GloriaThinker CupcakeChristian56 CarmenPrincess JuanPabloMontoya
+username: ChristinaBaby
+email: C.Aguilera@unsw.edu.au
+home_latitude: -33.8870

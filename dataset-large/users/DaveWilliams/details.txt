@@ -1,0 +1,8 @@
+username: DaveWilliams
+email: D.Williams@unsw.edu.au
+home_suburb: Pymble
+home_latitude: -33.7474
+listens: TenderKatie PeriGilpin Raul117 SillyEdward91 Cate6 CrazyTiger JuanNinja TigerGeek11 EmilyGeek40 CourtneyAngel57 SadTiger79
+password: fire
+full_name: Dave Williams
+home_longitude: 151.1322

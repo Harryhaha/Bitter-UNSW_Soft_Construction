@@ -1,0 +1,8 @@
+listens: TenderChick FunnyThinker27 SadFranck38 JennaElfman DoraNerd
+email: F.F.Coppola@unsw.edu.au
+password: winston
+full_name: Francis Ford Coppola
+home_longitude: 151.0736
+home_suburb: Homebush Bay
+home_latitude: -33.8463
+username: FrancisDude19

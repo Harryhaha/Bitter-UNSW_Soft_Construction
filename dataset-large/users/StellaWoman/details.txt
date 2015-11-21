@@ -1,0 +1,8 @@
+username: StellaWoman
+password: wizard
+home_longitude: 151.0860
+email: S.McCartney@unsw.edu.au
+home_latitude: -33.7587
+listens: RitaTiger IanGeek049 LuisBadboy BrookeGordon FunMatt87 CyndiWoman MerylAngel AnaAngel166 YuriThinker068 Barry9 CatherineKitten
+full_name: Stella McCartney
+home_suburb: Cheltenham

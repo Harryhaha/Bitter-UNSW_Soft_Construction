@@ -1,0 +1,6 @@
+email: W.Cuff@unsw.edu.au
+home_suburb: University Of New South Wales
+listens: DaveWilliams AaronTiger Barbara4 GaryGenius CarmenPrincess
+full_name: Ward Cuff
+username: SadTiger79
+password: winston

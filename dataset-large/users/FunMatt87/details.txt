@@ -1,0 +1,8 @@
+home_longitude: 151.2259
+email: M.Morris@unsw.edu.au
+home_latitude: -33.9117
+full_name: Matt Morris
+username: FunMatt87
+password: chicago
+home_suburb: University Of New South Wales
+listens: ChristineBaby AngelinaCat84 MarkGuy79 Barbara4 SmartTony65 SarahGeek58 SergioTiger MonicaGirl41 DreamThinker30 StellaWoman

@@ -1,0 +1,8 @@
+home_suburb: Double Bay
+full_name: Robinson Stevenin
+username: RobinsonAnimal
+listens: BobThinker PenelopeGeek SexyLaura13 LeslieTiger PeriGilpin FunnySandra Rod408 MarcoThinker49 VanessaStar OprahGenius33 ToniAngel
+home_longitude: 151.2427
+password: 4321
+home_latitude: -33.8712
+email: R.Stevenin@unsw.edu.au

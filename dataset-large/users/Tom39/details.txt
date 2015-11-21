@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+home_latitude: -33.9246
+username: Tom39
+home_longitude: 151.2304
+email: T.Cruise@unsw.edu.au
+full_name: Tom Cruise
+listens: AaronTiger MariahGeek70 FunMark41 DianaKrall Eva198 BrainyStar47 JustinAnimal Cate6 GwynethTiger46 TalisaCat
+password: boomer

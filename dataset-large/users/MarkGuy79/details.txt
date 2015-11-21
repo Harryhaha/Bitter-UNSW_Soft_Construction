@@ -1,0 +1,8 @@
+listens: PrettyHermann GenniferFlowers John291 AlexandreSurfer FunMatt87 AaronTiger ChristopherLover40 PortiaGirl JoeGuy JuanNinja MichelleAngel029 Sheryl657 JaneStar RogerFederer
+username: MarkGuy79
+home_longitude: 151.2680
+home_latitude: -33.8949
+password: coffee
+email: M.Richt@unsw.edu.au
+home_suburb: Bellevue Hill
+full_name: Mark Richt

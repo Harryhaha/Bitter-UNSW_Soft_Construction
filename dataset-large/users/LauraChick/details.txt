@@ -1,0 +1,8 @@
+home_longitude: 151.2250
+home_suburb: Kensington
+home_latitude: -33.9181
+listens: MarcoThinker49 OxanaAngel010 SillyMatt71 BrainyRatna30 Larenz513 HappyGeek26 Cate6 CrazyLaura HeidiKlum MonicaGirl41 PrettyMarisa74
+username: LauraChick
+full_name: Laura Bozzo
+password: andrew
+email: L.Bozzo@unsw.edu.au

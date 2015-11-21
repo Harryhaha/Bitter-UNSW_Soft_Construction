@@ -1,0 +1,8 @@
+email: P.Rose@unsw.edu.au
+listens: NatashaGal AwesomeMira86 HappyNerd08 SportyFrank02 CuteTiger09 RobertTiger Nicole
+username: Pete21
+home_suburb: Tamarama
+password: mark
+home_longitude: 151.2707
+home_latitude: -33.9026
+full_name: Pete Rose

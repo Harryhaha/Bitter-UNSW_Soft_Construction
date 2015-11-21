@@ -1,0 +1,8 @@
+home_longitude: 151.1942
+username: YuriThinker068
+full_name: Yuri Malenchenko
+home_latitude: -33.8651
+email: Y.Malenchenko@unsw.edu.au
+listens: DreamSurfer SmartGal Evan166 Rod408 SillyGirl79 RonnieGuy
+home_suburb: Millers Point
+password: donald

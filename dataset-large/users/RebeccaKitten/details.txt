@@ -1,0 +1,8 @@
+full_name: Rebecca Romijn-Stamos
+email: R.R.Stamos@unsw.edu.au
+home_latitude: -33.8646
+home_longitude: 151.1686
+password: warrior
+listens: Vince04 Douglas5 SexyBadboy SzuYuChen LeslieTiger CreativeBob21 DreamKitten SophiaLoren HotLover56
+home_suburb: Balmain
+username: RebeccaKitten

@@ -1,0 +1,8 @@
+home_latitude: -33.8638
+home_longitude: 151.1401
+full_name: Carla Gay Balingit
+home_suburb: Russell Lea
+password: stars
+email: C.G.Balingit@unsw.edu.au
+listens: BobThinker JoshuaBadboy99 LuisBadboy DonnyGuy PennyBaby JuanPabloMontoya Zico KatieNerd AndreAgassi CindyWoman16 ChristyStar584
+username: HotPrincess

@@ -1,0 +1,8 @@
+username: Tom16
+home_latitude: -33.9602
+home_longitude: 151.0709
+listens: JamieStar49 NeriThinker TomThinker FayeLover021 FunMark41 SillyGirl79 SadieWoman17 MickBadboy95 CarmenPrincess GianMarco Goran71
+password: boomer
+home_suburb: Peakhurst
+full_name: Tom Coverdale
+email: T.Coverdale@unsw.edu.au

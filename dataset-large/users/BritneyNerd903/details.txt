@@ -1,0 +1,8 @@
+email: B.Spears@unsw.edu.au
+password: lauren
+home_suburb: Darlington
+username: BritneyNerd903
+listens: BobThinker PedroBoy87 DiegoNinja MeganCat34 ChristinaGeek CarlosNinja StrongCarson KateKitten18 DebraGirl AndreAgassi
+full_name: Britney Spears
+home_latitude: -33.8888
+home_longitude: 151.1869

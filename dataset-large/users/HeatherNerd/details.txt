@@ -1,0 +1,8 @@
+home_suburb: Oakville
+home_latitude: -33.6297
+password: tester
+home_longitude: 150.8555
+full_name: Heather Locklear
+username: HeatherNerd
+email: H.Locklear@unsw.edu.au
+listens: NeriThinker LeonSilver RomanticLaila Cate6 MeganCat34 KurtLover36 TenderChick CuteTiger09

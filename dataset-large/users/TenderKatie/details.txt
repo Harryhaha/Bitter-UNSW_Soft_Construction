@@ -1,0 +1,8 @@
+username: TenderKatie
+email: K.Holmes@unsw.edu.au
+home_latitude: -33.8000
+listens: AlexDude115 Alyson90 LuisBadboy DaveWilliams IbrahimThinker GaryGenius Susie2 MerylAngel JasonNinja973 CatherineKitten
+password: midnight
+home_longitude: 151.2038
+full_name: Katie Holmes
+home_suburb: Willoughby

@@ -1,0 +1,8 @@
+password: zxcvbnm
+home_suburb: Kingsgrove
+home_longitude: 151.0993
+full_name: Szu Yu Chen
+home_latitude: -33.9368
+listens: SillyDerek NatashaGal JoshuaBadboy99 PrettyHermann DreamKitten AparnaLover399 Larenz513 RebeccaKitten CorinneCat ChristinaBaby
+email: S.Y.Chen@unsw.edu.au
+username: SzuYuChen

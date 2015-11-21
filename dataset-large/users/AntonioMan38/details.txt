@@ -1,0 +1,7 @@
+full_name: Antonio Banderas
+listens: DreamSurfer SmartGal HilaryDuff Maha208 BritneyNerd903 PolonaNerd06
+home_latitude: -33.8897
+username: AntonioMan38
+email: A.Banderas@unsw.edu.au
+password: turtle
+home_longitude: 151.2252

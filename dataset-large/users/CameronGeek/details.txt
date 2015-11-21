@@ -1,0 +1,8 @@
+full_name: Cameron Diaz
+email: C.Diaz@unsw.edu.au
+home_suburb: Horningsea Park
+home_longitude: 150.8523
+password: apples
+home_latitude: -33.9507
+username: CameronGeek
+listens: Joseph70 AshleaWoman970 CarrieAnneMoss Markus08 JenniferPuppy ToddBadboy PrincessVictoria HilaryDuff Maha208 CourtneyAngel57 PrettyMarisa74

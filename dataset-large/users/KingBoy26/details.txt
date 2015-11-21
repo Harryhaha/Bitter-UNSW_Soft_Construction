@@ -1,0 +1,8 @@
+home_longitude: 151.1087
+full_name: King Abdullah II
+email: K.A.II@unsw.edu.au
+home_latitude: -33.8696
+listens: AaronTiger CarrieAnneMoss ElizabethCat806 JenniferTiger31 Ludivine705 PatrickNinja MarkThinker Rod408 Eliza6
+password: thunder
+home_suburb: Canada Bay
+username: KingBoy26

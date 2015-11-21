@@ -1,0 +1,8 @@
+full_name: Sarah Hughes
+password: apple
+username: SarahGeek58
+home_longitude: 151.2446
+listens: RayBadboy LleytonStar500 FunMatt87 FranzNerd29 Christine280 AlastairStar
+home_latitude: -33.9868
+home_suburb: Little Bay
+email: S.Hughes@unsw.edu.au

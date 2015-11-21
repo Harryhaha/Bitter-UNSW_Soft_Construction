@@ -1,0 +1,8 @@
+password: marlboro
+username: AshleaWoman970
+home_suburb: Cecil Hills
+home_longitude: 150.8493
+full_name: Ashlea Talbot
+email: A.Talbot@unsw.edu.au
+listens: Joseph70 RobbyTiger60 TenderKatie HappyNerd08 OlesyaBonabarenko CameronGeek ChristopherLover40 JoseCanseco LisaLover RobertTiger JohnThinker NerdyMichael52
+home_latitude: -33.8767

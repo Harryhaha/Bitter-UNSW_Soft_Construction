@@ -1,0 +1,8 @@
+home_longitude: 151.0361
+home_suburb: Bankstown
+password: xxxx
+home_latitude: -33.9183
+username: FunKarl
+listens: Erika3 PriyankaAngel88 Keith056 PaulAnimal MichaelThinker SportyPedro61 DanDude JeriGeek987 DebraGirl CarmenPrincess
+full_name: Karl-Heinz Rummenigge
+email: K.H.Rummenigge@unsw.edu.au

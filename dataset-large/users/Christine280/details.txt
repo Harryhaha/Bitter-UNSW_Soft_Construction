@@ -1,0 +1,8 @@
+email: C.Ebersole@unsw.edu.au
+home_latitude: -33.9218
+home_longitude: 151.2286
+username: Christine280
+full_name: Christine Ebersole
+home_suburb: University Of New South Wales
+password: dolphins
+listens: CupcakeMiguel CreativeDominik80 MaryElizabethMastrantonio Mika96

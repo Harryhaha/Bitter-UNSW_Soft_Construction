@@ -1,0 +1,8 @@
+home_latitude: -33.9271
+home_longitude: 151.2276
+password: giants
+home_suburb: University Of New South Wales
+email: M.Bloomberg@unsw.edu.au
+username: MichaelNerd31
+listens: SexyLaura13 MaryPrincess691 JacquesRogge AlexandreSurfer AndyStar96 ToddBadboy NikkiNerd968 NerdyMichael52 Maha208 Sheryl657 ColinGenius HalleStar97
+full_name: Michael Bloomberg

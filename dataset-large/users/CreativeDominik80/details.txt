@@ -1,0 +1,8 @@
+home_longitude: 151.0770
+home_latitude: -34.0578
+listens: AngelaGeek CrazyGeek31 NorahTiger Christine280 BillFrist WeiPrincess681 CupcakeFabrice63
+home_suburb: Grays Point
+password: rock
+email: D.G.Lorido@unsw.edu.au
+full_name: Dominik Garcia-Lorido
+username: CreativeDominik80

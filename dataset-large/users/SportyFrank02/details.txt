@@ -1,0 +1,8 @@
+home_longitude: 151.0763
+password: yankee
+username: SportyFrank02
+email: F.Solich@unsw.edu.au
+home_suburb: Narwee
+full_name: Frank Solich
+listens: IanGeek049 JuanGuy PrettyLover Raul117 Pete21 GenoSurfer52 MarkThinker CuteTiger09 SadThinker30
+home_latitude: -33.9585

@@ -1,0 +1,8 @@
+home_longitude: 151.1757
+home_suburb: Annandale
+listens: RitaTiger PriyankaAngel88 AndyStar96 JuanGuy ThomasBjorn DesperateCeline Markus08 GianMarco TigerGeek11 SergioTiger AlastairStar
+email: K.Costner@unsw.edu.au
+password: smith
+username: KevinAnimal72
+full_name: Kevin Costner
+home_latitude: -33.8869

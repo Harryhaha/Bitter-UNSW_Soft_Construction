@@ -1,0 +1,8 @@
+home_suburb: Sydney
+home_longitude: 151.2003
+username: JeromeStar483
+full_name: Jerome Golmard
+password: bonnie
+email: J.Golmard@unsw.edu.au
+listens: EthanLover IbrahimThinker RomanticGenius37 KurtLover36 DanDude MerylAngel NikkiNerd968 DanielBruehl CharlesThinker
+home_latitude: -33.8578

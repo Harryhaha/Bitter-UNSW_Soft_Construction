@@ -1,0 +1,8 @@
+home_longitude: 150.4858
+listens: JenniePrincess85 SillyNerd MichaelKitten50 RobertNinja63 MikeWeir
+home_latitude: -33.7390
+username: VickiGal43
+home_suburb: Woodford
+password: chicken
+full_name: Vicki Zhao Wei
+email: V.Z.Wei@unsw.edu.au

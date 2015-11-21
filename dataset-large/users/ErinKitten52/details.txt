@@ -1,0 +1,8 @@
+password: broncos
+home_suburb: Greenwich
+listens: RomanticGenius37 DesperateCeline Priscilla81 SmartTony65 Tommy13 CorinneCat SadThinker84 CindyWoman16 Rick249 Tom87 RobbieBadboy54
+full_name: Erin Hershey Presley
+home_longitude: 151.1956
+home_latitude: -33.8297
+username: ErinKitten52
+email: E.H.Presley@unsw.edu.au

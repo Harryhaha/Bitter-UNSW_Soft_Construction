@@ -1,0 +1,6 @@
+home_suburb: Undercliffe
+password: 6666
+email: S.Koroleva@unsw.edu.au
+listens: ChristianLongo FayeLover021 LanceArmstrong CupcakeChristian56 DorkyAmber78 ThomasBjorn JohnThinker Nicole
+username: SvetlanaCat70
+full_name: Svetlana Koroleva

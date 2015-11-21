@@ -1,0 +1,8 @@
+full_name: Mariangel Ruiz Torrealba
+email: M.R.Torrealba@unsw.edu.au
+password: extreme
+home_suburb: University Of New South Wales
+username: SadThinker84
+home_longitude: 151.2247
+listens: VitaliKlitschko Anna9 JobCohen Barbara4 Julianna9 GwynethTiger46 PrincessVictoria AaronNinja Susie2 DebraGirl Sheryl657 SillyPamela50
+home_latitude: -33.9118

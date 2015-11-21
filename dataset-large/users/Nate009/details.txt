@@ -1,0 +1,8 @@
+home_longitude: 151.2376
+username: Nate009
+home_latitude: -33.9076
+password: monkey
+full_name: Nate Hybl
+home_suburb: Randwick
+listens: GloriaThinker Vince04 KeanuReeves RomanticGenius37 BrainyRatna30 CuteAli89 JudyVassar SmartGal Evan166 Mika96 PrettyTatjana75 PrincessVictoria JulietteBinoche CuteTiger09 Alicia96 BridgetLover105 CuteThinker32
+email: N.Hybl@unsw.edu.au

@@ -1,0 +1,6 @@
+password: helpme
+full_name: Marc Bulger
+username: MarcPuppy588
+listens: SexyLaura13 QueenNerd76 JoseCanseco Piotr271 MonicaGirl41 VickiGal43 HeidiKlum MarkThinker AparnaLover399 JohnThinker PolonaNerd06 AlastairStar
+email: M.Bulger@unsw.edu.au
+home_suburb: Lavender Bay

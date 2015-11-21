@@ -1,0 +1,7 @@
+home_latitude: -33.8051
+full_name: Raul Gonzalez
+email: R.Gonzalez@unsw.edu.au
+password: 777777
+username: Raul117
+home_longitude: 151.1898
+listens: CupcakeMiguel MarcPuppy588 SportyFrank02 SzuYuChen ErinBaby Rod408 DaveWilliams ThomasBjorn Monica3

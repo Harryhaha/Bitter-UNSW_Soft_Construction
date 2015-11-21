@@ -1,0 +1,8 @@
+username: CuteTiger09
+home_suburb: University Of New South Wales
+home_latitude: -33.9261
+home_longitude: 151.2289
+full_name: Juan Manuel Marquez
+listens: Markus08 RomanticLaila SillyGirl79 Larenz513 HilaryDuff HeatherNerd MaryElizabethMastrantonio JennaElfman
+email: J.M.Marquez@unsw.edu.au
+password: sydney

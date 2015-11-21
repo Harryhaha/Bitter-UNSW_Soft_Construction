@@ -1,0 +1,8 @@
+username: Rob9
+home_longitude: 151.2807
+home_latitude: -33.7585
+password: knight
+listens: Rosie4 JenniferAngel MarkMan413 AwesomeMira86 CupcakeChristian56 KeanuReeves JohnDude94 ConchitaMartinez CorinneCat SarahWynter
+email: R.Lowe@unsw.edu.au
+home_suburb: Brookvale
+full_name: Rob Lowe

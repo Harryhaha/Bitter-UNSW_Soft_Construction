@@ -1,0 +1,8 @@
+password: stars
+listens: DominicBoy Holly6 GiannaGirl OxanaAngel010 ElizabethStar11 PortiaGirl CalistaPrincess NorahTiger SeriousJeanne76 MaryElizabethMastrantonio
+full_name: Jane Clayson
+home_longitude: 151.1854
+email: J.Clayson@unsw.edu.au
+home_latitude: -33.9001
+username: JaneKitten
+home_suburb: Newtown

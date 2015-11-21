@@ -1,0 +1,8 @@
+password: dakota
+listens: CupcakeMiguel BillFrist ChristinaGeek MichelleHofland SadFranck38 CreativeVanessa MarcoThinker49 JKGenius Tom16 Anna9 KatieNerd MiltonLover
+email: A.Bassett@unsw.edu.au
+full_name: Angela Bassett
+home_longitude: 151.0816
+username: SexyTiger43
+home_suburb: Meadowbank
+home_latitude: -33.8228

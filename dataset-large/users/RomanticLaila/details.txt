@@ -1,0 +1,6 @@
+email: L.Ali@unsw.edu.au
+password: 8675309
+listens: Scott99 JoseBoy HugoBadboy520 BridgetLover105 Zico HeatherNerd CuteTiger09 FunGeek
+full_name: Laila Ali
+username: RomanticLaila
+home_suburb: Riverview

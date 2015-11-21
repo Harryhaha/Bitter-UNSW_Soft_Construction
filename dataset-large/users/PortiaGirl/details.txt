@@ -1,0 +1,8 @@
+home_longitude: 151.2173
+email: P..Rossi@unsw.edu.au
+home_latitude: -33.8727
+full_name: Portia de Rossi
+username: PortiaGirl
+password: bear
+listens: ChristianLongo GiannaGirl LuisBadboy MarkGuy79 DougSurfer MistyPrincess VinceTiger102 NikkiTiger261
+home_suburb: Kings Cross

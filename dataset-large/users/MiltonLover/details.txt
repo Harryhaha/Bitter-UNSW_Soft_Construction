@@ -1,0 +1,8 @@
+home_suburb: University Of New South Wales
+password: little
+home_latitude: -33.9135
+username: MiltonLover
+full_name: Milton Wynants
+email: M.Wynants@unsw.edu.au
+home_longitude: 151.2228
+listens: DiegoNinja LleytonStar500 NatashaGal SexyTiger43 HotThinker78
